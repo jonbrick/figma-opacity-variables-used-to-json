@@ -1,0 +1,3416 @@
+{
+  "breakpoint/sm": {
+    "name": "breakpoint/sm",
+    "key": "9227254a3e7e5efe1b8f4ed9146650ceec94ef3a",
+    "id": "VariableID:309:1101",
+    "resolvedType": "FLOAT"
+  },
+  "breakpoint/md": {
+    "name": "breakpoint/md",
+    "key": "63c26f58029f79962bd0e187ecd70071695e7286",
+    "id": "VariableID:309:1102",
+    "resolvedType": "FLOAT"
+  },
+  "breakpoint/lg": {
+    "name": "breakpoint/lg",
+    "key": "d22cf81dd68ef866d1470449bb5b058bf2605bb0",
+    "id": "VariableID:309:1103",
+    "resolvedType": "FLOAT"
+  },
+  "breakpoint/xl": {
+    "name": "breakpoint/xl",
+    "key": "e37124243048552291975eaae057827d5d313621",
+    "id": "VariableID:309:1104",
+    "resolvedType": "FLOAT"
+  },
+  "breakpoint/2xl": {
+    "name": "breakpoint/2xl",
+    "key": "d13dc82c2d4c135380a9404f33fd5082635cc726",
+    "id": "VariableID:309:1105",
+    "resolvedType": "FLOAT"
+  },
+  "radius/none": {
+    "name": "radius/none",
+    "key": "b683e4258cd267c486c629165d023f6e9d75b73e",
+    "id": "VariableID:309:1106",
+    "resolvedType": "FLOAT"
+  },
+  "radius/xs": {
+    "name": "radius/xs",
+    "key": "f450b28d4200369649f6beac9f98a74e113cee04",
+    "id": "VariableID:309:1107",
+    "resolvedType": "FLOAT"
+  },
+  "radius/sm": {
+    "name": "radius/sm",
+    "key": "28593073d33a854385b8f1c16f2b797c0c9a2cec",
+    "id": "VariableID:309:1108",
+    "resolvedType": "FLOAT"
+  },
+  "radius/md": {
+    "name": "radius/md",
+    "key": "c3d1364acd0a6c629cc2c8342ee231d02d0def89",
+    "id": "VariableID:309:1109",
+    "resolvedType": "FLOAT"
+  },
+  "radius/lg": {
+    "name": "radius/lg",
+    "key": "fc48dcb3a0b0de319e925d67acbd6371b290e2e2",
+    "id": "VariableID:309:1110",
+    "resolvedType": "FLOAT"
+  },
+  "radius/xl": {
+    "name": "radius/xl",
+    "key": "c8b2597c3a450f20a0b0b4e795e87ef74694c5f5",
+    "id": "VariableID:309:1111",
+    "resolvedType": "FLOAT"
+  },
+  "radius/2xl": {
+    "name": "radius/2xl",
+    "key": "145c05ef4f618393d61ffa0e9d51755ae6438465",
+    "id": "VariableID:309:1112",
+    "resolvedType": "FLOAT"
+  },
+  "radius/3xl": {
+    "name": "radius/3xl",
+    "key": "ee47df1178dbc83add7d3c597e2bb2ec9cce7cb6",
+    "id": "VariableID:309:1113",
+    "resolvedType": "FLOAT"
+  },
+  "radius/full": {
+    "name": "radius/full",
+    "key": "5207fec7ffbeed560ed6b2bb670a8c6c7f0d1130",
+    "id": "VariableID:309:1114",
+    "resolvedType": "FLOAT"
+  },
+  "container/0": {
+    "name": "container/0",
+    "key": "f3925e747b03f6acf8e6d3d7699d66137b1557aa",
+    "id": "VariableID:309:1128",
+    "resolvedType": "FLOAT"
+  },
+  "container/xs": {
+    "name": "container/xs",
+    "key": "1c9ec14a98a6920f6b2ea2f8ba575541baea21a2",
+    "id": "VariableID:309:1129",
+    "resolvedType": "FLOAT"
+  },
+  "container/sm": {
+    "name": "container/sm",
+    "key": "2172ee2eff2e8a0c93632a18990d79eeb9990d18",
+    "id": "VariableID:309:1130",
+    "resolvedType": "FLOAT"
+  },
+  "container/md": {
+    "name": "container/md",
+    "key": "8870f027c13926e160dc99a60b98ca4ccbc621d8",
+    "id": "VariableID:309:1131",
+    "resolvedType": "FLOAT"
+  },
+  "container/lg": {
+    "name": "container/lg",
+    "key": "0643b97ca075b99b2b816764ccb84ba0de7ad791",
+    "id": "VariableID:309:1132",
+    "resolvedType": "FLOAT"
+  },
+  "container/xl": {
+    "name": "container/xl",
+    "key": "79ff2c06768dcd56352e8de461f14b7be083522c",
+    "id": "VariableID:309:1133",
+    "resolvedType": "FLOAT"
+  },
+  "container/2xl": {
+    "name": "container/2xl",
+    "key": "afa28ff2adb0cf8307b4926a86cf6f8646074d57",
+    "id": "VariableID:309:1134",
+    "resolvedType": "FLOAT"
+  },
+  "container/3xl": {
+    "name": "container/3xl",
+    "key": "3e85d3b784f8eaf919941125bc275870f6e15da9",
+    "id": "VariableID:309:1135",
+    "resolvedType": "FLOAT"
+  },
+  "container/4xl": {
+    "name": "container/4xl",
+    "key": "98220e302492ce6f4f55b384de13ab436006d873",
+    "id": "VariableID:309:1136",
+    "resolvedType": "FLOAT"
+  },
+  "container/5xl": {
+    "name": "container/5xl",
+    "key": "1f5df1fba1a520278b665fbf6bd4aa5f6e3320f4",
+    "id": "VariableID:309:1137",
+    "resolvedType": "FLOAT"
+  },
+  "container/6xl": {
+    "name": "container/6xl",
+    "key": "f83e9b9b1c79bafa3c8aac40f93b1c30764b8c7c",
+    "id": "VariableID:309:1138",
+    "resolvedType": "FLOAT"
+  },
+  "container/7xl": {
+    "name": "container/7xl",
+    "key": "f075a06e877f208527fe689aec12dca01f7c9c96",
+    "id": "VariableID:309:1139",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/0": {
+    "name": "opacity/0",
+    "key": "006f6a5804b92a6d7c5cc2049e7ee9e9962261e2",
+    "id": "VariableID:309:1140",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/5": {
+    "name": "opacity/5",
+    "key": "b6cb7beb2e16b116eb68cdde30784685137686d1",
+    "id": "VariableID:309:1141",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/10": {
+    "name": "opacity/10",
+    "key": "b42c2063a6e96b66576669725373ad3761600956",
+    "id": "VariableID:309:1142",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/20": {
+    "name": "opacity/20",
+    "key": "4e244d81635f97b619582f9215b06f094b559a83",
+    "id": "VariableID:309:1143",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/25": {
+    "name": "opacity/25",
+    "key": "c416a4a50f2c9d0eba7b55b4865fb559168be178",
+    "id": "VariableID:309:1144",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/30": {
+    "name": "opacity/30",
+    "key": "3e4ce36a5af5ca57b82e6c47dc9f43ded86e0488",
+    "id": "VariableID:309:1145",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/40": {
+    "name": "opacity/40",
+    "key": "a0c587067f6b9be5825dc81fc05dad572155132d",
+    "id": "VariableID:309:1146",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/50": {
+    "name": "opacity/50",
+    "key": "dce89f0c69010ef8ed5ef5f0188b804f1ade5167",
+    "id": "VariableID:309:1147",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/60": {
+    "name": "opacity/60",
+    "key": "509052871507ec5542bcc0095eb4c78b35533f57",
+    "id": "VariableID:309:1148",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/70": {
+    "name": "opacity/70",
+    "key": "65d8beb6bef94e72b03b7d7ab49b741b9a293dbd",
+    "id": "VariableID:309:1149",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/75": {
+    "name": "opacity/75",
+    "key": "a9f065e3c5b08786cc7e07aebc4ef9a4b2586340",
+    "id": "VariableID:309:1150",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/80": {
+    "name": "opacity/80",
+    "key": "f64915ba3fa2169887fa42f19ea5dc13b62b6ca2",
+    "id": "VariableID:309:1151",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/90": {
+    "name": "opacity/90",
+    "key": "8301b888bb7476ecf1d32446966147c5953fa4c9",
+    "id": "VariableID:309:1152",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/95": {
+    "name": "opacity/95",
+    "key": "eff794a2d198ca13cb6b3f1a145f58fd579dab31",
+    "id": "VariableID:309:1153",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/100": {
+    "name": "opacity/100",
+    "key": "9cf040894ee1bbc62dcfa0b376b81f6cc20ae02f",
+    "id": "VariableID:309:1154",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/0": {
+    "name": "spacing/0",
+    "key": "d3b3ed9d5df20c5acc234a58a763658f42606073",
+    "id": "VariableID:309:1155",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/1": {
+    "name": "spacing/1",
+    "key": "f5c16b3ddb5e63fb523d7afee2a3e178384de4d8",
+    "id": "VariableID:309:1156",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/2": {
+    "name": "spacing/2",
+    "key": "d54997f2ddfc5bc82b6138cd861ec96fe3e25472",
+    "id": "VariableID:309:1157",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/3": {
+    "name": "spacing/3",
+    "key": "feb66fbf4ae5f2fb192f794c9f231decaee37629",
+    "id": "VariableID:309:1158",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/4": {
+    "name": "spacing/4",
+    "key": "a1a851ae0ec2c80a396ab4339e1e9ea79bd17a1a",
+    "id": "VariableID:309:1159",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/5": {
+    "name": "spacing/5",
+    "key": "ad1a95e869e04e2bd093559551cc781ac1be0950",
+    "id": "VariableID:309:1160",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/6": {
+    "name": "spacing/6",
+    "key": "bf9a8eed4a4f246c065c366d578a1b24ee8cf58e",
+    "id": "VariableID:309:1161",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/7": {
+    "name": "spacing/7",
+    "key": "420a97489ba8a4ce554193bd3f850cc7646fa71a",
+    "id": "VariableID:309:1162",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/8": {
+    "name": "spacing/8",
+    "key": "85b311d321d2679aaddb4f5fc8c1e5b6be539ff8",
+    "id": "VariableID:309:1163",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/9": {
+    "name": "spacing/9",
+    "key": "f0efb3abf5505aedbe9f12d9f1f40556a13ce751",
+    "id": "VariableID:309:1164",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/10": {
+    "name": "spacing/10",
+    "key": "43c12a5bd734e4ad2c454e1c5539d5c6f3411e59",
+    "id": "VariableID:309:1165",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/11": {
+    "name": "spacing/11",
+    "key": "adf404b82bafc51df69c6275392e35c4bb0ace5f",
+    "id": "VariableID:309:1166",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/12": {
+    "name": "spacing/12",
+    "key": "b35d48882bf9facf5b6c004ef637d570c547b060",
+    "id": "VariableID:309:1167",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/14": {
+    "name": "spacing/14",
+    "key": "b1380f684e6dcb30eecd0224d48713aa8c94b9b5",
+    "id": "VariableID:309:1168",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/16": {
+    "name": "spacing/16",
+    "key": "a1e732762065947d8b2718fd1495a1025686af23",
+    "id": "VariableID:309:1169",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/20": {
+    "name": "spacing/20",
+    "key": "3927f133060fa6df3cc5a2dd6cefb5e8fcc20c5a",
+    "id": "VariableID:309:1170",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/24": {
+    "name": "spacing/24",
+    "key": "b2acb39feb49859e2b1b282d9db13f00013ac018",
+    "id": "VariableID:309:1171",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/28": {
+    "name": "spacing/28",
+    "key": "56dba39f1fb1eefd23ed88f42c7bc2e216675458",
+    "id": "VariableID:309:1172",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/32": {
+    "name": "spacing/32",
+    "key": "9a7bf553340034998d037b68eb438bf05a1f6efc",
+    "id": "VariableID:309:1173",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/36": {
+    "name": "spacing/36",
+    "key": "9204c0eb522f504efaeefd902dfb070da356e896",
+    "id": "VariableID:309:1174",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/40": {
+    "name": "spacing/40",
+    "key": "7a07adcd0862a05cedb742a246bf5081009f832b",
+    "id": "VariableID:309:1175",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/44": {
+    "name": "spacing/44",
+    "key": "23959b92b250e5ce48442bf53a52e28911b8572b",
+    "id": "VariableID:309:1176",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/48": {
+    "name": "spacing/48",
+    "key": "bd3f979cc8f563d56eab2fc92049ac6418609b9a",
+    "id": "VariableID:309:1177",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/52": {
+    "name": "spacing/52",
+    "key": "b29df34b8253c30f9ea34775e9de0ebab678e377",
+    "id": "VariableID:309:1178",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/56": {
+    "name": "spacing/56",
+    "key": "464b69ae13ac7a6a56d277e153cf1762ef9baab0",
+    "id": "VariableID:309:1179",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/60": {
+    "name": "spacing/60",
+    "key": "57ec61ed020fbeaf70be985ad10bfe0df25305ef",
+    "id": "VariableID:309:1180",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/64": {
+    "name": "spacing/64",
+    "key": "2b48bfc114331deb05322a78440c0c44eee4b4d3",
+    "id": "VariableID:309:1181",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/72": {
+    "name": "spacing/72",
+    "key": "b278db39b05d14f20ddcedfbff06f11d23a01da3",
+    "id": "VariableID:309:1182",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/80": {
+    "name": "spacing/80",
+    "key": "ea3154e79bd2d1cae087a6d4e804ec93bdf5dc39",
+    "id": "VariableID:309:1183",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/96": {
+    "name": "spacing/96",
+    "key": "98c4831178ad6bbce2ae5aa4cd3d986fcf72702a",
+    "id": "VariableID:309:1184",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/px": {
+    "name": "spacing/px",
+    "key": "9c958d93946fbf003d2c03c48c93695bd32acf1e",
+    "id": "VariableID:309:1185",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/0-5": {
+    "name": "spacing/0-5",
+    "key": "5d42d8d7c7e369ca80584f4add3bf87e1286422f",
+    "id": "VariableID:309:1186",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/1-5": {
+    "name": "spacing/1-5",
+    "key": "b07dd18a3f513378b4e983cc4eaaea75830d0d5d",
+    "id": "VariableID:309:1187",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/2-5": {
+    "name": "spacing/2-5",
+    "key": "07ff69d5b9280807bea5f63a6d32f26d9dc44464",
+    "id": "VariableID:309:1188",
+    "resolvedType": "FLOAT"
+  },
+  "spacing/3-5": {
+    "name": "spacing/3-5",
+    "key": "34fac88dd77977696984eeb0a0df61313a435850",
+    "id": "VariableID:309:1189",
+    "resolvedType": "FLOAT"
+  },
+  "skew/0": {
+    "name": "skew/0",
+    "key": "32db822a9c6915704f84208f6167f6791b884f8c",
+    "id": "VariableID:309:1190",
+    "resolvedType": "FLOAT"
+  },
+  "skew/1": {
+    "name": "skew/1",
+    "key": "aefc45f02a05b949853e6e5ba47b66d6444c2aec",
+    "id": "VariableID:309:1191",
+    "resolvedType": "FLOAT"
+  },
+  "skew/2": {
+    "name": "skew/2",
+    "key": "5068285481cb55cc0722d68c9203a833856e43d6",
+    "id": "VariableID:309:1192",
+    "resolvedType": "FLOAT"
+  },
+  "skew/3": {
+    "name": "skew/3",
+    "key": "274388f3302f3604ff29a89d13d4867b31126d37",
+    "id": "VariableID:309:1193",
+    "resolvedType": "FLOAT"
+  },
+  "skew/6": {
+    "name": "skew/6",
+    "key": "84ae5cb043bc0d0250ac78ad69d74dcde3e3cb32",
+    "id": "VariableID:309:1194",
+    "resolvedType": "FLOAT"
+  },
+  "skew/12": {
+    "name": "skew/12",
+    "key": "a4570bc7ec2daf53d7a7524630cb31558202f06a",
+    "id": "VariableID:309:1195",
+    "resolvedType": "FLOAT"
+  },
+  "color/black": {
+    "name": "color/black",
+    "key": "7dafc411bfa8edfa198424cbc7b4d014da81a126",
+    "id": "VariableID:309:1196",
+    "resolvedType": "COLOR"
+  },
+  "color/white": {
+    "name": "color/white",
+    "key": "3cb23088085b43c93c248d45e63d72b4d72a928e",
+    "id": "VariableID:309:1197",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/50": {
+    "name": "color/slate/50",
+    "key": "93e845505fac7d6d86694f1740761a13060b8860",
+    "id": "VariableID:309:1198",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/100": {
+    "name": "color/slate/100",
+    "key": "be7d414971287eb4b498a0907354629306ac9cbb",
+    "id": "VariableID:309:1199",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/200": {
+    "name": "color/slate/200",
+    "key": "1daa4a7e26e5cbce0e061806e34a5d2f6de7a79a",
+    "id": "VariableID:309:1200",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/300": {
+    "name": "color/slate/300",
+    "key": "2d0f8d008192343b1ffb596b0aa584a1d9729af3",
+    "id": "VariableID:309:1201",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/400": {
+    "name": "color/slate/400",
+    "key": "47db08c9fa3352648371aa7ef96a339cc92666b6",
+    "id": "VariableID:309:1202",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/500": {
+    "name": "color/slate/500",
+    "key": "01e3de1ef09cfd55e21e57ce9d25990e54416753",
+    "id": "VariableID:309:1203",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/600": {
+    "name": "color/slate/600",
+    "key": "b18e00ea4fc099d28158b882a6274af813421457",
+    "id": "VariableID:309:1204",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/700": {
+    "name": "color/slate/700",
+    "key": "9f9317e5094b4e0580917bc8042e4d26cf7cfa90",
+    "id": "VariableID:309:1205",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/800": {
+    "name": "color/slate/800",
+    "key": "7d142897ebf542764f4d0655ebcabcc8240f822e",
+    "id": "VariableID:309:1206",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/900": {
+    "name": "color/slate/900",
+    "key": "99e110a689b7d2f922169292f1044198cc0fc3ad",
+    "id": "VariableID:309:1207",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/950": {
+    "name": "color/slate/950",
+    "key": "3536e0790812c31c393769925b58610c0fdf24f8",
+    "id": "VariableID:309:1208",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/50": {
+    "name": "color/gray/50",
+    "key": "d7bd53067219a66e154cb3a596b45f1a99dff2f6",
+    "id": "VariableID:309:1209",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/100": {
+    "name": "color/gray/100",
+    "key": "674e0ded8e004c19862c685308a0d6d32b449b47",
+    "id": "VariableID:309:1210",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/200": {
+    "name": "color/gray/200",
+    "key": "cf8eae3d27fb9b513a498376fd26ed20b63ec860",
+    "id": "VariableID:309:1211",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/300": {
+    "name": "color/gray/300",
+    "key": "546d1be7b08a633dd6c88439ed096ed36ca90c28",
+    "id": "VariableID:309:1212",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/400": {
+    "name": "color/gray/400",
+    "key": "745fda6fff2606449d5a53aaf3ab013312e836f8",
+    "id": "VariableID:309:1213",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/500": {
+    "name": "color/gray/500",
+    "key": "2207e9567c23de7d6eb3db897390d6d4cb64b957",
+    "id": "VariableID:309:1214",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/600": {
+    "name": "color/gray/600",
+    "key": "ec61007f8929f1a35551a5f919a7038df45d7d18",
+    "id": "VariableID:309:1215",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/700": {
+    "name": "color/gray/700",
+    "key": "e19e0a856f38202026a3e7c619bb7e24530626c3",
+    "id": "VariableID:309:1216",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/800": {
+    "name": "color/gray/800",
+    "key": "ab2f6d0ac6379b9aad2defea83785daa6aa06555",
+    "id": "VariableID:309:1217",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/900": {
+    "name": "color/gray/900",
+    "key": "939e8b925804e35ca92b3ddebcd4ae8277919785",
+    "id": "VariableID:309:1218",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/950": {
+    "name": "color/gray/950",
+    "key": "b3b4382e737c56064872c54c94f4d66111a40307",
+    "id": "VariableID:309:1219",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/50": {
+    "name": "color/zinc/50",
+    "key": "ee8ee6d5ebcdfeb7f2d287ceccf4b92ce68f20f6",
+    "id": "VariableID:309:1220",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/100": {
+    "name": "color/zinc/100",
+    "key": "20822ed308df39755946e0c8d736e10757900751",
+    "id": "VariableID:309:1221",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/200": {
+    "name": "color/zinc/200",
+    "key": "6e8f2c0a493c239dd4997874c01275857b95d11a",
+    "id": "VariableID:309:1222",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/300": {
+    "name": "color/zinc/300",
+    "key": "e74e9b0347e47604a84e32d2a690f3fb1c4beda0",
+    "id": "VariableID:309:1223",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/400": {
+    "name": "color/zinc/400",
+    "key": "ff40ef7c99e12ad5bc5ef496769613eedff32ed8",
+    "id": "VariableID:309:1224",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/500": {
+    "name": "color/zinc/500",
+    "key": "1a3518ed302d24eb705994af62ff27491356d877",
+    "id": "VariableID:309:1225",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/600": {
+    "name": "color/zinc/600",
+    "key": "08cf3348aeb2d2be01e4c556e581c776131c2845",
+    "id": "VariableID:309:1226",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/700": {
+    "name": "color/zinc/700",
+    "key": "78b334ee363d8522ae681772566f3998fec23510",
+    "id": "VariableID:309:1227",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/800": {
+    "name": "color/zinc/800",
+    "key": "0fd6a15a31c88e6a178a37f8bbd0f8aa74c435a2",
+    "id": "VariableID:309:1228",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/900": {
+    "name": "color/zinc/900",
+    "key": "f3e421d67314c34fa651ccee9ceaf7c39542a2fa",
+    "id": "VariableID:309:1229",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/950": {
+    "name": "color/zinc/950",
+    "key": "a66d7efa61bfdc1a32774cf1a84a62d1a76770a6",
+    "id": "VariableID:309:1230",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/50": {
+    "name": "color/neutral/50",
+    "key": "be070469938bc4cf346edea94deaf0e30cf6001d",
+    "id": "VariableID:309:1231",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/100": {
+    "name": "color/neutral/100",
+    "key": "8d21023a94d92cdd13abc80782c03f1ef85a4571",
+    "id": "VariableID:309:1232",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/200": {
+    "name": "color/neutral/200",
+    "key": "2cf0caa307a892b92909fa9613d1ba14e08eba88",
+    "id": "VariableID:309:1233",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/300": {
+    "name": "color/neutral/300",
+    "key": "d42397d769f181d49618fb3caba30decb0c47192",
+    "id": "VariableID:309:1234",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/400": {
+    "name": "color/neutral/400",
+    "key": "4cb4bdd93785699601a2c3df0cdc2cac6bba31b4",
+    "id": "VariableID:309:1235",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/500": {
+    "name": "color/neutral/500",
+    "key": "6d402dc222ff4fd25e8b2e54e0de30aa91f5b845",
+    "id": "VariableID:309:1236",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/600": {
+    "name": "color/neutral/600",
+    "key": "0d76cc176f71b2b8d52a6799b32a9585323f5205",
+    "id": "VariableID:309:1237",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/700": {
+    "name": "color/neutral/700",
+    "key": "f8b8585329aa9f69f17cec437593af10748b801d",
+    "id": "VariableID:309:1238",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/800": {
+    "name": "color/neutral/800",
+    "key": "ceb49f752c5d6e8d13149e679140345435013413",
+    "id": "VariableID:309:1239",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/900": {
+    "name": "color/neutral/900",
+    "key": "468c16c4e6574059ab7b3c4c002db44fdfd0ab85",
+    "id": "VariableID:309:1240",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/950": {
+    "name": "color/neutral/950",
+    "key": "00294ebd033c2045c38cb43aa7824a0d38a0c4a0",
+    "id": "VariableID:309:1241",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/50": {
+    "name": "color/stone/50",
+    "key": "a992d26247113c1cbc17c69cfa218001b3fbb748",
+    "id": "VariableID:309:1242",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/100": {
+    "name": "color/stone/100",
+    "key": "5c41d225db100ee555d5a30bdaffb20aa9ea4cca",
+    "id": "VariableID:309:1243",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/200": {
+    "name": "color/stone/200",
+    "key": "f03e61d5a670d4776624f638e6ff19e1b4dcc573",
+    "id": "VariableID:309:1244",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/300": {
+    "name": "color/stone/300",
+    "key": "e171044f92f50b6773b41d835cba302c59714743",
+    "id": "VariableID:309:1245",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/400": {
+    "name": "color/stone/400",
+    "key": "56d649b15dff0dac41d4ac5a55227f077edb40bd",
+    "id": "VariableID:309:1246",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/500": {
+    "name": "color/stone/500",
+    "key": "82e0d80ebee41f0520ef90c16208c43d3d925849",
+    "id": "VariableID:309:1247",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/600": {
+    "name": "color/stone/600",
+    "key": "829a1fb86893826c088a482bb92376237a8bb245",
+    "id": "VariableID:309:1248",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/700": {
+    "name": "color/stone/700",
+    "key": "5f59a019af5926b74750f3fba27c5880e8460768",
+    "id": "VariableID:309:1249",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/800": {
+    "name": "color/stone/800",
+    "key": "d705faacd9a552fd5fdd64c4b8b4da220eae8f98",
+    "id": "VariableID:309:1250",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/900": {
+    "name": "color/stone/900",
+    "key": "696f39d0ca1667351ee40b1285453f78ae009ca8",
+    "id": "VariableID:309:1251",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/950": {
+    "name": "color/stone/950",
+    "key": "acc8e778e2b2215b6edba029b34373eb4d13324e",
+    "id": "VariableID:309:1252",
+    "resolvedType": "COLOR"
+  },
+  "color/red/50": {
+    "name": "color/red/50",
+    "key": "9528d7761bd90797ea9b480c58c7e3a15d77a6e0",
+    "id": "VariableID:309:1253",
+    "resolvedType": "COLOR"
+  },
+  "color/red/100": {
+    "name": "color/red/100",
+    "key": "edb1aa4c574ea1cf82faa32ce7e0889d252f54bd",
+    "id": "VariableID:309:1254",
+    "resolvedType": "COLOR"
+  },
+  "color/red/200": {
+    "name": "color/red/200",
+    "key": "49452da41550d718e4018ec042b5205d2cd18da1",
+    "id": "VariableID:309:1255",
+    "resolvedType": "COLOR"
+  },
+  "color/red/300": {
+    "name": "color/red/300",
+    "key": "4a5a909c6dfd84790d8771d856f94e98117caed2",
+    "id": "VariableID:309:1256",
+    "resolvedType": "COLOR"
+  },
+  "color/red/400": {
+    "name": "color/red/400",
+    "key": "4dc35846002709b975b8114d04d8a6ce16049e20",
+    "id": "VariableID:309:1257",
+    "resolvedType": "COLOR"
+  },
+  "color/red/500": {
+    "name": "color/red/500",
+    "key": "7cb551039e769545215bf411785d9d0ff0d84633",
+    "id": "VariableID:309:1258",
+    "resolvedType": "COLOR"
+  },
+  "color/red/600": {
+    "name": "color/red/600",
+    "key": "f22e48ccf84edfdc484c29fe28a6c2d4eee84217",
+    "id": "VariableID:309:1259",
+    "resolvedType": "COLOR"
+  },
+  "color/red/700": {
+    "name": "color/red/700",
+    "key": "d28028315c98c6990f7e1efb16f038899722aa69",
+    "id": "VariableID:309:1260",
+    "resolvedType": "COLOR"
+  },
+  "color/red/800": {
+    "name": "color/red/800",
+    "key": "c6be187a1ea7a49a91cabea46b18aff6830af9db",
+    "id": "VariableID:309:1261",
+    "resolvedType": "COLOR"
+  },
+  "color/red/900": {
+    "name": "color/red/900",
+    "key": "c6ca2c06dccdc0fb10c33ee0ca7bd37b1462dced",
+    "id": "VariableID:309:1262",
+    "resolvedType": "COLOR"
+  },
+  "color/red/950": {
+    "name": "color/red/950",
+    "key": "d1b4e9cbac6eaf598045c038be0c9b0a75da5e63",
+    "id": "VariableID:309:1263",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/50": {
+    "name": "color/amber/50",
+    "key": "39bd31002f6424e18cc69d7a3ce0c37185799f17",
+    "id": "VariableID:309:1275",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/50": {
+    "name": "color/yellow/50",
+    "key": "1f119d827f30bfe9f8433eecf21bb28a3a9238b0",
+    "id": "VariableID:309:1286",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/100": {
+    "name": "color/yellow/100",
+    "key": "73e96cb398122f728cf4c670aa13e9c8c4758d9a",
+    "id": "VariableID:309:1287",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/200": {
+    "name": "color/yellow/200",
+    "key": "33f31d038463a6781c2dde2fa94e205140876619",
+    "id": "VariableID:309:1288",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/300": {
+    "name": "color/yellow/300",
+    "key": "0889fab3e299281af50232b669bfb53854bf2549",
+    "id": "VariableID:309:1289",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/400": {
+    "name": "color/yellow/400",
+    "key": "6230aad3c8bf7837e31ff839e8fcb4465f6468c7",
+    "id": "VariableID:309:1290",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/500": {
+    "name": "color/yellow/500",
+    "key": "64d373095ce0cc7696a4c1d45794c9b2d758d797",
+    "id": "VariableID:309:1291",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/600": {
+    "name": "color/yellow/600",
+    "key": "470badb2ec6a82fe80d5624612eef601e3f44aad",
+    "id": "VariableID:309:1292",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/700": {
+    "name": "color/yellow/700",
+    "key": "9a55ef87252f53d35b80877b0ad3a41cdd278c9c",
+    "id": "VariableID:309:1293",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/800": {
+    "name": "color/yellow/800",
+    "key": "dcd1f8593cab214f9db248717f2f726ff869f754",
+    "id": "VariableID:309:1294",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/900": {
+    "name": "color/yellow/900",
+    "key": "35c3a605f17960b2d94f4de4bd3398251f042a45",
+    "id": "VariableID:309:1295",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/950": {
+    "name": "color/yellow/950",
+    "key": "65a2996a68456a547e3b4e97526c81242247d42e",
+    "id": "VariableID:309:1296",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/50": {
+    "name": "color/lime/50",
+    "key": "fabb0da1118b84b88275cc70510154560896f670",
+    "id": "VariableID:309:1297",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/100": {
+    "name": "color/lime/100",
+    "key": "9b995687959eeb984ab78292c5bd127d3c976e2a",
+    "id": "VariableID:309:1298",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/200": {
+    "name": "color/lime/200",
+    "key": "896c40e73805b9ca74b97405cfa87d0aafb98796",
+    "id": "VariableID:309:1299",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/300": {
+    "name": "color/lime/300",
+    "key": "67b78ccd92378437e6ca4820cb7d7b0a5bcc2c5d",
+    "id": "VariableID:309:1300",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/400": {
+    "name": "color/lime/400",
+    "key": "a0fedffe26d64b6ad7e90b35772c7cf7c6203257",
+    "id": "VariableID:309:1301",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/500": {
+    "name": "color/lime/500",
+    "key": "f987c40ae8ac94ac389d26b52a8d87cf1b351667",
+    "id": "VariableID:309:1302",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/600": {
+    "name": "color/lime/600",
+    "key": "0003573a05e8ebd3037c3e37d2ee8117453ae12b",
+    "id": "VariableID:309:1303",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/700": {
+    "name": "color/lime/700",
+    "key": "347f93324bde53f2eec22775b0ce562471aa8454",
+    "id": "VariableID:309:1304",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/800": {
+    "name": "color/lime/800",
+    "key": "e4afd1a761c878cb2c688173ed44af254ed2e407",
+    "id": "VariableID:309:1305",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/900": {
+    "name": "color/lime/900",
+    "key": "28239d298220a419af4a0f93991553c7b90b9e84",
+    "id": "VariableID:309:1306",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/950": {
+    "name": "color/lime/950",
+    "key": "697073c9f044dd2a85df5b4cc76dc7554091d6a0",
+    "id": "VariableID:309:1307",
+    "resolvedType": "COLOR"
+  },
+  "color/green/50": {
+    "name": "color/green/50",
+    "key": "11440347208a1437d2225c4f27cda296d8697c1c",
+    "id": "VariableID:309:1308",
+    "resolvedType": "COLOR"
+  },
+  "color/green/100": {
+    "name": "color/green/100",
+    "key": "7251306691b50197416705e6393cb02ae1b02a76",
+    "id": "VariableID:309:1309",
+    "resolvedType": "COLOR"
+  },
+  "color/green/200": {
+    "name": "color/green/200",
+    "key": "63bf0e5cfd01d0cc069d25be840341af4da15392",
+    "id": "VariableID:309:1310",
+    "resolvedType": "COLOR"
+  },
+  "color/green/300": {
+    "name": "color/green/300",
+    "key": "ce23cc135d9ba87a963dbec00d0ae5271c62dca6",
+    "id": "VariableID:309:1311",
+    "resolvedType": "COLOR"
+  },
+  "color/green/400": {
+    "name": "color/green/400",
+    "key": "d56e515716186471a1fceec3fb835b6951d54b50",
+    "id": "VariableID:309:1312",
+    "resolvedType": "COLOR"
+  },
+  "color/green/500": {
+    "name": "color/green/500",
+    "key": "b6015a38a297452b14a3e6e513442dbf1d522576",
+    "id": "VariableID:309:1313",
+    "resolvedType": "COLOR"
+  },
+  "color/green/600": {
+    "name": "color/green/600",
+    "key": "e3e6092bacd9562592875c85c05d70272454def2",
+    "id": "VariableID:309:1314",
+    "resolvedType": "COLOR"
+  },
+  "color/green/700": {
+    "name": "color/green/700",
+    "key": "9c69f92159391eb1afe0304257ae4d6c3da69615",
+    "id": "VariableID:309:1315",
+    "resolvedType": "COLOR"
+  },
+  "color/green/800": {
+    "name": "color/green/800",
+    "key": "f00eb272edaba8d5d54cac8b795d3900f31989b6",
+    "id": "VariableID:309:1316",
+    "resolvedType": "COLOR"
+  },
+  "color/green/900": {
+    "name": "color/green/900",
+    "key": "6da17320c4e9f9405ece6a70f924d70b922a16a8",
+    "id": "VariableID:309:1317",
+    "resolvedType": "COLOR"
+  },
+  "color/green/950": {
+    "name": "color/green/950",
+    "key": "d1d3f3034961e39810b2a3922de94354216bde5c",
+    "id": "VariableID:309:1318",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/50": {
+    "name": "color/emerald/50",
+    "key": "a9460b6f315060bbcac87e24c0536cb500411c22",
+    "id": "VariableID:309:1319",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/100": {
+    "name": "color/emerald/100",
+    "key": "59dd998eef4db47ffec5f6bc5891453602db5e95",
+    "id": "VariableID:309:1320",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/200": {
+    "name": "color/emerald/200",
+    "key": "4408efd0cf69cc2d94a34cc8e589caa0af0a500d",
+    "id": "VariableID:309:1321",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/300": {
+    "name": "color/emerald/300",
+    "key": "5d1d542fc239621ec6d12ea7ff8191afb2883a0b",
+    "id": "VariableID:309:1322",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/400": {
+    "name": "color/emerald/400",
+    "key": "a9f4a7331c6a4ff8134108ce194009849f40769b",
+    "id": "VariableID:309:1323",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/500": {
+    "name": "color/emerald/500",
+    "key": "f21df7bd9114672dab12bfd70486dd0dc54aa8f3",
+    "id": "VariableID:309:1324",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/600": {
+    "name": "color/emerald/600",
+    "key": "e21b7009e0e1260cc2aefe8eed83c40771b583ef",
+    "id": "VariableID:309:1325",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/700": {
+    "name": "color/emerald/700",
+    "key": "3cfd7d21add27741fb86a45b300534ef99872351",
+    "id": "VariableID:309:1326",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/800": {
+    "name": "color/emerald/800",
+    "key": "2a520665d630b0ae9be56c4d701a422bb27ab12c",
+    "id": "VariableID:309:1327",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/900": {
+    "name": "color/emerald/900",
+    "key": "2aec451dc3f9013455e929996337ae779613dd7d",
+    "id": "VariableID:309:1328",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/950": {
+    "name": "color/emerald/950",
+    "key": "9f11eff1b81c666b21f34b42975af8bc2c47bcb4",
+    "id": "VariableID:309:1329",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/50": {
+    "name": "color/teal/50",
+    "key": "708dd0e70f998f9c358844364befff1907147f38",
+    "id": "VariableID:309:1330",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/100": {
+    "name": "color/teal/100",
+    "key": "6eaf5f476a74e1cf12d49642cfd6f2b9a8d1841e",
+    "id": "VariableID:309:1331",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/200": {
+    "name": "color/teal/200",
+    "key": "bab0471c674630cafe758999848ee68415878bb6",
+    "id": "VariableID:309:1332",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/300": {
+    "name": "color/teal/300",
+    "key": "be771cc6b548ff5b457205550ba65ef8d8c7892e",
+    "id": "VariableID:309:1333",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/400": {
+    "name": "color/teal/400",
+    "key": "c980fbd06612cdf8cadb2076c395ee9e5f829850",
+    "id": "VariableID:309:1334",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/500": {
+    "name": "color/teal/500",
+    "key": "dd1b99d5b1b9042e8da92d43ed9c1329c32880de",
+    "id": "VariableID:309:1335",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/600": {
+    "name": "color/teal/600",
+    "key": "faa6e483354eb4cc39c90b4f6cba6235db9573a1",
+    "id": "VariableID:309:1336",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/700": {
+    "name": "color/teal/700",
+    "key": "215fb07a84377e2026b5edba598ad5d72d83f208",
+    "id": "VariableID:309:1337",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/800": {
+    "name": "color/teal/800",
+    "key": "d561120a526971db3cdcefb1da34dfb062167d83",
+    "id": "VariableID:309:1338",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/900": {
+    "name": "color/teal/900",
+    "key": "0f9c63af250b19cabce98934c220cb8e543ad547",
+    "id": "VariableID:309:1339",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/950": {
+    "name": "color/teal/950",
+    "key": "e2a6923b524be066fd81fe9c9354df2b6fefd710",
+    "id": "VariableID:309:1340",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/50": {
+    "name": "color/cyan/50",
+    "key": "121464935a714761f7c282af1cec9f2e669a3af4",
+    "id": "VariableID:309:1341",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/100": {
+    "name": "color/cyan/100",
+    "key": "099694270a3a64df15b9685ed13fa7c8835190a2",
+    "id": "VariableID:309:1342",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/200": {
+    "name": "color/cyan/200",
+    "key": "bf7d0d612a14f298044eff550592aed53cc680fc",
+    "id": "VariableID:309:1343",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/300": {
+    "name": "color/cyan/300",
+    "key": "38ccb9e27b6cd6f1f318cbeb3a45c6c5a54de8c0",
+    "id": "VariableID:309:1344",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/400": {
+    "name": "color/cyan/400",
+    "key": "5c77fb7c0c5f02d36f91816a70a0e67f8eed2fcb",
+    "id": "VariableID:309:1345",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/500": {
+    "name": "color/cyan/500",
+    "key": "47a588e38faed79989df7016c7861298d1eca575",
+    "id": "VariableID:309:1346",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/600": {
+    "name": "color/cyan/600",
+    "key": "e846ef83a3eb7f248fa5f4afc152cd591cd1787d",
+    "id": "VariableID:309:1347",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/700": {
+    "name": "color/cyan/700",
+    "key": "1b57a1fa394904f822c32bbf086a50c505de64ac",
+    "id": "VariableID:309:1348",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/800": {
+    "name": "color/cyan/800",
+    "key": "7a4f1b2c662418fd9cab406bd1234591bb43a0e7",
+    "id": "VariableID:309:1349",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/900": {
+    "name": "color/cyan/900",
+    "key": "93f9f8d7d955b6bc71d4498b87a929f4fd471891",
+    "id": "VariableID:309:1350",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/950": {
+    "name": "color/cyan/950",
+    "key": "03ecf252bed92ba5194e0d2a3d011e5695681fdf",
+    "id": "VariableID:309:1351",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/50": {
+    "name": "color/sky/50",
+    "key": "e617d3fbc0d9aa170c304a90bd6392e26f6b2cd1",
+    "id": "VariableID:309:1352",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/100": {
+    "name": "color/sky/100",
+    "key": "e17083c5348a426cdbd3243e3617c269780cef50",
+    "id": "VariableID:309:1353",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/200": {
+    "name": "color/sky/200",
+    "key": "c5ee46d00028398a76b985f50dfcf5d348273a80",
+    "id": "VariableID:309:1354",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/300": {
+    "name": "color/sky/300",
+    "key": "5e5609115c4800457638bbd69bb10cd9624a23e2",
+    "id": "VariableID:309:1355",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/400": {
+    "name": "color/sky/400",
+    "key": "3ccf212281e68baf7681af50eaf1a8fdaaad9ed5",
+    "id": "VariableID:309:1356",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/500": {
+    "name": "color/sky/500",
+    "key": "2ee37fa35cc3db2b973cd5d924c75196eac1a45d",
+    "id": "VariableID:309:1357",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/600": {
+    "name": "color/sky/600",
+    "key": "28196c8f09602a06f0677775a263f5983dd6f911",
+    "id": "VariableID:309:1358",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/700": {
+    "name": "color/sky/700",
+    "key": "617fdbb67cc50df44ea54c16b3da1d8b9cea4d9e",
+    "id": "VariableID:309:1359",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/800": {
+    "name": "color/sky/800",
+    "key": "19cc6595d28ec3634c9cb2c7394047653d0c8bd0",
+    "id": "VariableID:309:1360",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/900": {
+    "name": "color/sky/900",
+    "key": "5d22af6e7261ce75bd0de6cd7a801888a7035339",
+    "id": "VariableID:309:1361",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/950": {
+    "name": "color/sky/950",
+    "key": "be29aeb7b52d11ddf95318d8464d111ef3fa750c",
+    "id": "VariableID:309:1362",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/50": {
+    "name": "color/blue/50",
+    "key": "709bbcdd6fe72e89f2c6c789fec77d2312b7837d",
+    "id": "VariableID:309:1363",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/100": {
+    "name": "color/blue/100",
+    "key": "90ae605fa38b2e0234c177fbadbe5568c5fb524d",
+    "id": "VariableID:309:1364",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/200": {
+    "name": "color/blue/200",
+    "key": "cf1cb83f8b88450474db85832cb2a8e9a1ffe332",
+    "id": "VariableID:309:1365",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/300": {
+    "name": "color/blue/300",
+    "key": "c0fb32c3014b6fab6fc5dce7fdb54330991a6933",
+    "id": "VariableID:309:1366",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/400": {
+    "name": "color/blue/400",
+    "key": "f81041e8846cd179a803c847cae5aa0ff0adb494",
+    "id": "VariableID:309:1367",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/500": {
+    "name": "color/blue/500",
+    "key": "d82a60904896f6bde9ddc67e708627b0442a2edd",
+    "id": "VariableID:309:1368",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/600": {
+    "name": "color/blue/600",
+    "key": "fedfc4220caf998ff99ff4916f3427a84602dc95",
+    "id": "VariableID:309:1369",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/700": {
+    "name": "color/blue/700",
+    "key": "378a784a9d5c22518fc7bd81281766d0c043887b",
+    "id": "VariableID:309:1370",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/800": {
+    "name": "color/blue/800",
+    "key": "91aa1f1b2f52b3264be524b38a9a72159ce76be9",
+    "id": "VariableID:309:1371",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/900": {
+    "name": "color/blue/900",
+    "key": "42cce7304c0833cb20e0c84cdd623c71ea18c223",
+    "id": "VariableID:309:1372",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/950": {
+    "name": "color/blue/950",
+    "key": "a9d4aeba5c0f9e95b43cca09ba1de5590dd47e8d",
+    "id": "VariableID:309:1373",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/50": {
+    "name": "color/indigo/50",
+    "key": "d420e9a21c88a536142d316bc11a7dde0a7c1db2",
+    "id": "VariableID:309:1374",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/100": {
+    "name": "color/indigo/100",
+    "key": "92b42a7d5facdb27640c9d333ac575db8b6aa2b3",
+    "id": "VariableID:309:1375",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/200": {
+    "name": "color/indigo/200",
+    "key": "3a3b1caddad4b8f8fa98ce1263dfeac4593b5783",
+    "id": "VariableID:309:1376",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/300": {
+    "name": "color/indigo/300",
+    "key": "d80bb3a69ef4613ed0966db5d68aa98a63031b9c",
+    "id": "VariableID:309:1377",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/400": {
+    "name": "color/indigo/400",
+    "key": "818dfa4b249d5e00757828373f144491ce52933e",
+    "id": "VariableID:309:1378",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/500": {
+    "name": "color/indigo/500",
+    "key": "4f2a25927194a7c14b8106933652ae4546bc8d35",
+    "id": "VariableID:309:1379",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/600": {
+    "name": "color/indigo/600",
+    "key": "14c9bbccbec5e1c87c7d4c4704b100fef8d7a932",
+    "id": "VariableID:309:1380",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/700": {
+    "name": "color/indigo/700",
+    "key": "2ee5278180e3887362b764fa9af2c66f24d6df4a",
+    "id": "VariableID:309:1381",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/800": {
+    "name": "color/indigo/800",
+    "key": "453b4f936fcd9810dd8c46de8537a96e231239cc",
+    "id": "VariableID:309:1382",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/900": {
+    "name": "color/indigo/900",
+    "key": "74e8301924c3769a6118e26d5719bac5148153f6",
+    "id": "VariableID:309:1383",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/950": {
+    "name": "color/indigo/950",
+    "key": "e0aa078cfa03711102cbc1f181ef370a284d01d1",
+    "id": "VariableID:309:1384",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/50": {
+    "name": "color/violet/50",
+    "key": "0485daf2f562dcb0dac965461fdf5769cdd755f8",
+    "id": "VariableID:309:1385",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/100": {
+    "name": "color/violet/100",
+    "key": "fa326a0a5a77cf82efa05b8fd341872792bd7cf9",
+    "id": "VariableID:309:1386",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/200": {
+    "name": "color/violet/200",
+    "key": "f5c509ea995666eef62dcc479b857b72d7ce4046",
+    "id": "VariableID:309:1387",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/300": {
+    "name": "color/violet/300",
+    "key": "f7d081b5aaba15a451d817ea43ebc3e68cc5cc87",
+    "id": "VariableID:309:1388",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/400": {
+    "name": "color/violet/400",
+    "key": "d2ec8bf233c4e593d2370797303a86974aba7e89",
+    "id": "VariableID:309:1389",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/500": {
+    "name": "color/violet/500",
+    "key": "eb4f729f74e9536a4b7586ea085caec16de72e10",
+    "id": "VariableID:309:1390",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/600": {
+    "name": "color/violet/600",
+    "key": "7ed7bbd11b00c48702036c11f6a5f297645315a4",
+    "id": "VariableID:309:1391",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/700": {
+    "name": "color/violet/700",
+    "key": "95fed25cdc3d45e3b9f1006e714cbf9934d36ab4",
+    "id": "VariableID:309:1392",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/800": {
+    "name": "color/violet/800",
+    "key": "bccd039e277ca803ff453c21142bd36266a917e1",
+    "id": "VariableID:309:1393",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/900": {
+    "name": "color/violet/900",
+    "key": "d764914bb365e5c10095da12769bb84c4db13b76",
+    "id": "VariableID:309:1394",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/950": {
+    "name": "color/violet/950",
+    "key": "77de435d1f47133c66043bff76e73ed747e145f4",
+    "id": "VariableID:309:1395",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/50": {
+    "name": "color/purple/50",
+    "key": "0a7b0b70476bd1e67566c2131a7c29b228f8d7f3",
+    "id": "VariableID:309:1396",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/100": {
+    "name": "color/purple/100",
+    "key": "8f2fa474f99195fc7569503dc57ddbba82d6da5c",
+    "id": "VariableID:309:1397",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/200": {
+    "name": "color/purple/200",
+    "key": "8f1140244fd2bd032376254a89458faef8ea339f",
+    "id": "VariableID:309:1398",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/300": {
+    "name": "color/purple/300",
+    "key": "3df71f298a9b9273a78eeb76b467bed6082d9347",
+    "id": "VariableID:309:1399",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/400": {
+    "name": "color/purple/400",
+    "key": "40a50fcae4208c5a75bba751af8e7ce145602d0a",
+    "id": "VariableID:309:1400",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/500": {
+    "name": "color/purple/500",
+    "key": "ded21be997489adfce5d322184112607ffcbe6d7",
+    "id": "VariableID:309:1401",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/600": {
+    "name": "color/purple/600",
+    "key": "ab1763faef9ef0caf86b7a9e5d139c775df22217",
+    "id": "VariableID:309:1402",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/700": {
+    "name": "color/purple/700",
+    "key": "7f9b3416df5e3c37daacd075855d4e33e81294b5",
+    "id": "VariableID:309:1403",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/800": {
+    "name": "color/purple/800",
+    "key": "33450fe8c9d25f2941b97fdb9161b977cc638716",
+    "id": "VariableID:309:1404",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/900": {
+    "name": "color/purple/900",
+    "key": "edb3a98e9204db19355ca3b5751865c27b51c6a0",
+    "id": "VariableID:309:1405",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/950": {
+    "name": "color/purple/950",
+    "key": "3853566047f4aa5057c67b60666c237f874bd059",
+    "id": "VariableID:309:1406",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/50": {
+    "name": "color/fuchsia/50",
+    "key": "323cc81d9710c926165b99e644560b9f9a4328a5",
+    "id": "VariableID:309:1407",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/100": {
+    "name": "color/fuchsia/100",
+    "key": "1874f6e02cde69d462e1cf521f88b2234abb2c91",
+    "id": "VariableID:309:1408",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/200": {
+    "name": "color/fuchsia/200",
+    "key": "d226963a53c9dd5a7584fcbabed83960e30cef3f",
+    "id": "VariableID:309:1409",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/300": {
+    "name": "color/fuchsia/300",
+    "key": "0b9cdf53f08a28eda5148038cc81824bcdd95842",
+    "id": "VariableID:309:1410",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/400": {
+    "name": "color/fuchsia/400",
+    "key": "30155f324ed9b6401e516f40414cb7e2943dc48f",
+    "id": "VariableID:309:1411",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/500": {
+    "name": "color/fuchsia/500",
+    "key": "79b3d889d22d0f07a41e0c2eadb105772a920c38",
+    "id": "VariableID:309:1412",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/600": {
+    "name": "color/fuchsia/600",
+    "key": "6deebba1ffa662501e66b1c7999e77dc170cacab",
+    "id": "VariableID:309:1413",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/700": {
+    "name": "color/fuchsia/700",
+    "key": "73b0388e89ae231daec293f4dc97fccddb0caaf5",
+    "id": "VariableID:309:1414",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/800": {
+    "name": "color/fuchsia/800",
+    "key": "0a44dc6e172f68b3c78376d33637173f53c1284b",
+    "id": "VariableID:309:1415",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/900": {
+    "name": "color/fuchsia/900",
+    "key": "e381236e732c1613f81ea53bb5bf97a37a478913",
+    "id": "VariableID:309:1416",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/950": {
+    "name": "color/fuchsia/950",
+    "key": "bf3640b3d6f4db4ebb140b71b9f4809b909d6b47",
+    "id": "VariableID:309:1417",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/50": {
+    "name": "color/pink/50",
+    "key": "d233aa9e4068207f57b42a25f45c74e1a87cda03",
+    "id": "VariableID:309:1418",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/100": {
+    "name": "color/pink/100",
+    "key": "d3a227fd84e570f3c8d7d9572d789586d2449d8f",
+    "id": "VariableID:309:1419",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/200": {
+    "name": "color/pink/200",
+    "key": "848a06768a4fa22221f6b51cc74b4d5cb30f4371",
+    "id": "VariableID:309:1420",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/300": {
+    "name": "color/pink/300",
+    "key": "42df76c113646ffd53ea7ae58298fe5da2664c83",
+    "id": "VariableID:309:1421",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/400": {
+    "name": "color/pink/400",
+    "key": "898419c67f47e3605dd239168e13b82de7960849",
+    "id": "VariableID:309:1422",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/500": {
+    "name": "color/pink/500",
+    "key": "e0ce1f15d6069bd01f70978473b399199f7fb43c",
+    "id": "VariableID:309:1423",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/600": {
+    "name": "color/pink/600",
+    "key": "f9de2039a8f11d9e109b42214ba21adb1b641ae1",
+    "id": "VariableID:309:1424",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/700": {
+    "name": "color/pink/700",
+    "key": "b39b0d8727249efc1c8c8beaf1ce2402e186fda7",
+    "id": "VariableID:309:1425",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/800": {
+    "name": "color/pink/800",
+    "key": "3e4899024bc48b73489fdd31ec6d39bfac77812d",
+    "id": "VariableID:309:1426",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/900": {
+    "name": "color/pink/900",
+    "key": "81f83d0f7efc81648bf00d5311772942214a6ef0",
+    "id": "VariableID:309:1427",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/950": {
+    "name": "color/pink/950",
+    "key": "391894d4817e9eb49232e30eef2f7b8c0aa7bf62",
+    "id": "VariableID:309:1428",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/50": {
+    "name": "color/rose/50",
+    "key": "2bf8b1e42b4d10e2fa8995aa914bd448ef6d2e4b",
+    "id": "VariableID:309:1429",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/100": {
+    "name": "color/rose/100",
+    "key": "e3f2f28c89dfaddb9fbbaf2c5e5af9fd55d41b8e",
+    "id": "VariableID:309:1430",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/200": {
+    "name": "color/rose/200",
+    "key": "21ba31d29313b53203e5df5e3614d1d2bdd9adc9",
+    "id": "VariableID:309:1431",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/300": {
+    "name": "color/rose/300",
+    "key": "b37e22f5808cf1d65723197c199c344e296904d5",
+    "id": "VariableID:309:1432",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/400": {
+    "name": "color/rose/400",
+    "key": "ca228fab0ec1441ece7867f08f724474d233c042",
+    "id": "VariableID:309:1433",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/500": {
+    "name": "color/rose/500",
+    "key": "f0705a7c355bc266760cb94e59e2a5706df166c2",
+    "id": "VariableID:309:1434",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/600": {
+    "name": "color/rose/600",
+    "key": "38299fcc98872dcfc97e9abeb2a590ac08f783d6",
+    "id": "VariableID:309:1435",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/700": {
+    "name": "color/rose/700",
+    "key": "4a1e98d0bd5887e32724a2b6354457430aa51131",
+    "id": "VariableID:309:1436",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/800": {
+    "name": "color/rose/800",
+    "key": "755d064d6ca6ffe09e70fbb905d6d7c28f0a306e",
+    "id": "VariableID:309:1437",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/900": {
+    "name": "color/rose/900",
+    "key": "422f0b8007175893e30728b1c82712c4910aa3f5",
+    "id": "VariableID:309:1438",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/950": {
+    "name": "color/rose/950",
+    "key": "570bc959e61160aab3fea67ab1e29c8955007d75",
+    "id": "VariableID:309:1439",
+    "resolvedType": "COLOR"
+  },
+  "border-width/0": {
+    "name": "border-width/0",
+    "key": "90e34f6e1c83d6e87473f1ee58f8953a99b28053",
+    "id": "VariableID:401:1246",
+    "resolvedType": "FLOAT"
+  },
+  "border-width/1": {
+    "name": "border-width/1",
+    "key": "57f1ce6d65c53b19a18e8716b9d9698ccbfbb3d0",
+    "id": "VariableID:401:1247",
+    "resolvedType": "FLOAT"
+  },
+  "border-width/2": {
+    "name": "border-width/2",
+    "key": "ea1c27e76626319410d268d9c68b876e192cfc61",
+    "id": "VariableID:401:1248",
+    "resolvedType": "FLOAT"
+  },
+  "border-width/4": {
+    "name": "border-width/4",
+    "key": "2f497237c92d1c0d8ef55bc488dce2a418a1d67c",
+    "id": "VariableID:401:1249",
+    "resolvedType": "FLOAT"
+  },
+  "border-width/8": {
+    "name": "border-width/8",
+    "key": "f3a4d9aa821ebeb0e5d84156967670106c8d3a0c",
+    "id": "VariableID:401:1250",
+    "resolvedType": "FLOAT"
+  },
+  "blur/none": {
+    "name": "blur/none",
+    "key": "0c10396f81dfc23d4833d821979fa8743f1cb5ed",
+    "id": "VariableID:411:1226",
+    "resolvedType": "FLOAT"
+  },
+  "blur/xs": {
+    "name": "blur/xs",
+    "key": "bdd2b85cb77e9c78d3419ecde8512eca4407728d",
+    "id": "VariableID:411:1227",
+    "resolvedType": "FLOAT"
+  },
+  "blur/sm": {
+    "name": "blur/sm",
+    "key": "d1939a38c4dfa38e03b1936865f3cabdac08dbbc",
+    "id": "VariableID:411:1228",
+    "resolvedType": "FLOAT"
+  },
+  "blur/md": {
+    "name": "blur/md",
+    "key": "01d54f9c5c1112f835b721ba3aa70d071b7dc3ff",
+    "id": "VariableID:411:1229",
+    "resolvedType": "FLOAT"
+  },
+  "blur/lg": {
+    "name": "blur/lg",
+    "key": "c8c52aa296e16486deb85b904ee7db33048d3e66",
+    "id": "VariableID:411:1230",
+    "resolvedType": "FLOAT"
+  },
+  "blur/xl": {
+    "name": "blur/xl",
+    "key": "c96cab99cfebd391485e6b3c199bba8c87b6e06c",
+    "id": "VariableID:411:1231",
+    "resolvedType": "FLOAT"
+  },
+  "blur/2xl": {
+    "name": "blur/2xl",
+    "key": "42190388146052ac256ae31888f8a4eba286cbdc",
+    "id": "VariableID:411:1232",
+    "resolvedType": "FLOAT"
+  },
+  "blur/3xl": {
+    "name": "blur/3xl",
+    "key": "bb5b891d85584539270f8b4c901b70c2f7ba091e",
+    "id": "VariableID:411:1233",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/15": {
+    "name": "opacity/15",
+    "key": "f0f79cd010c733fb3009f076d66f8667c48b7e74",
+    "id": "VariableID:414:1244",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/35": {
+    "name": "opacity/35",
+    "key": "cd2136ce02c340bfacafdaeb25b5b3e65710c8a4",
+    "id": "VariableID:414:1245",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/45": {
+    "name": "opacity/45",
+    "key": "0307fdc0c05fc676eb12da8eb9ceac4f67db6469",
+    "id": "VariableID:414:1246",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/55": {
+    "name": "opacity/55",
+    "key": "12a034c0d03fcd353b48553f92347a59e1a4cbee",
+    "id": "VariableID:414:1247",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/65": {
+    "name": "opacity/65",
+    "key": "a652592c536238bfcdd1d128cc11bfa6bd90c8d0",
+    "id": "VariableID:414:1248",
+    "resolvedType": "FLOAT"
+  },
+  "opacity/85": {
+    "name": "opacity/85",
+    "key": "060cc8e6e2d19ffd7c939c3a428dd05a87488bae",
+    "id": "VariableID:414:1249",
+    "resolvedType": "FLOAT"
+  },
+  "color/transparent": {
+    "name": "color/transparent",
+    "key": "3f7f0d3f0c5c5c3d87e09fb6145c52b27cfca62d",
+    "id": "VariableID:434:1252",
+    "resolvedType": "COLOR"
+  },
+  "font/family/sans": {
+    "name": "font/family/sans",
+    "key": "4c5c3f30b8c012f6ea9d6ff0f1acda33619dd8d4",
+    "id": "VariableID:468:1253",
+    "resolvedType": "STRING"
+  },
+  "font/family/serif": {
+    "name": "font/family/serif",
+    "key": "1d5bf63705f3f5755a8b14b6202dbf59f793d9e5",
+    "id": "VariableID:468:1254",
+    "resolvedType": "STRING"
+  },
+  "font/family/mono": {
+    "name": "font/family/mono",
+    "key": "701fda5c8cc66786dc3869d9dd59876af33ec7d2",
+    "id": "VariableID:468:1255",
+    "resolvedType": "STRING"
+  },
+  "font/size/xs": {
+    "name": "font/size/xs",
+    "key": "c3b4ce7944815cf5457cec2df2bae8ab558c3ba1",
+    "id": "VariableID:468:1256",
+    "resolvedType": "FLOAT"
+  },
+  "font/size/sm": {
+    "name": "font/size/sm",
+    "key": "1d4c502b9394db115c254d1106d5040603c557ac",
+    "id": "VariableID:468:1257",
+    "resolvedType": "FLOAT"
+  },
+  "font/size/base": {
+    "name": "font/size/base",
+    "key": "e67b6b4d2d3afa48fc27ba05f722dee5a643e6a7",
+    "id": "VariableID:468:1258",
+    "resolvedType": "FLOAT"
+  },
+  "font/size/lg": {
+    "name": "font/size/lg",
+    "key": "12de301e1a47f77e5a05c0f7e48611d858612442",
+    "id": "VariableID:468:1259",
+    "resolvedType": "FLOAT"
+  },
+  "font/size/xl": {
+    "name": "font/size/xl",
+    "key": "f95beace8168c8b0a837f4d9e87f7207b024abb5",
+    "id": "VariableID:468:1260",
+    "resolvedType": "FLOAT"
+  },
+  "font/size/2xl": {
+    "name": "font/size/2xl",
+    "key": "eda16fade2348499e1c8065509d6298e18b58820",
+    "id": "VariableID:468:1261",
+    "resolvedType": "FLOAT"
+  },
+  "font/size/3xl": {
+    "name": "font/size/3xl",
+    "key": "9c72289b643a9de25e082eb1bab2d8cffc8d19ea",
+    "id": "VariableID:468:1262",
+    "resolvedType": "FLOAT"
+  },
+  "font/size/4xl": {
+    "name": "font/size/4xl",
+    "key": "5c6ed2af3e2d2367bbc08e795f7f97e3622ce513",
+    "id": "VariableID:468:1263",
+    "resolvedType": "FLOAT"
+  },
+  "font/size/5xl": {
+    "name": "font/size/5xl",
+    "key": "7a5114a52877fbf023da9c687d753c534e96a33f",
+    "id": "VariableID:468:1264",
+    "resolvedType": "FLOAT"
+  },
+  "font/size/6xl": {
+    "name": "font/size/6xl",
+    "key": "fad3646c6c7882e19958d5020310432f4bde9671",
+    "id": "VariableID:468:1265",
+    "resolvedType": "FLOAT"
+  },
+  "font/size/7xl": {
+    "name": "font/size/7xl",
+    "key": "7784d3c283ec16938dfe135b462aa626c10115d9",
+    "id": "VariableID:468:1266",
+    "resolvedType": "FLOAT"
+  },
+  "font/size/8xl": {
+    "name": "font/size/8xl",
+    "key": "5e62b9c2868dfa5ac664ed42d7f60759ee16997b",
+    "id": "VariableID:468:1267",
+    "resolvedType": "FLOAT"
+  },
+  "font/size/9xl": {
+    "name": "font/size/9xl",
+    "key": "8ab27d82bee51229a4e1ff60669ab93fe230341a",
+    "id": "VariableID:468:1268",
+    "resolvedType": "FLOAT"
+  },
+  "font/style/italic": {
+    "name": "font/style/italic",
+    "key": "abc6907539102894ae0d5641fa378cd9eb68d0b4",
+    "id": "VariableID:468:1269",
+    "resolvedType": "STRING"
+  },
+  "font/style/not-italic": {
+    "name": "font/style/not-italic",
+    "key": "ffcefd6cb74065c7726178e9de1130299b18222d",
+    "id": "VariableID:468:1270",
+    "resolvedType": "STRING"
+  },
+  "font/weight/thin": {
+    "name": "font/weight/thin",
+    "key": "1193101b2472e9fea0e1f0639a9c5551dabdf687",
+    "id": "VariableID:468:1271",
+    "resolvedType": "FLOAT"
+  },
+  "font/weight/extralight": {
+    "name": "font/weight/extralight",
+    "key": "c562efd40dbff4906a33c315413dae1b0b3f42e7",
+    "id": "VariableID:468:1272",
+    "resolvedType": "FLOAT"
+  },
+  "font/weight/light": {
+    "name": "font/weight/light",
+    "key": "8e679aa804b4f5079fe816c81d60eaa203748203",
+    "id": "VariableID:468:1273",
+    "resolvedType": "FLOAT"
+  },
+  "font/weight/normal": {
+    "name": "font/weight/normal",
+    "key": "e42738e9b601c8c2cf64b63961d834c20c8f7396",
+    "id": "VariableID:468:1274",
+    "resolvedType": "FLOAT"
+  },
+  "font/weight/medium": {
+    "name": "font/weight/medium",
+    "key": "a1babbbcfee7539ca2a8ca4c8bbac7ad8c6cb572",
+    "id": "VariableID:468:1275",
+    "resolvedType": "FLOAT"
+  },
+  "font/weight/semibold": {
+    "name": "font/weight/semibold",
+    "key": "3d98e09bcc3e2d463cdcc582e8864711f7db2ae4",
+    "id": "VariableID:468:1276",
+    "resolvedType": "FLOAT"
+  },
+  "font/weight/bold": {
+    "name": "font/weight/bold",
+    "key": "46ea95b619ec6a610d4748636526c5622b9ca483",
+    "id": "VariableID:468:1277",
+    "resolvedType": "FLOAT"
+  },
+  "font/weight/extrabold": {
+    "name": "font/weight/extrabold",
+    "key": "5ed6c1e3441093030475de80fde7fd72420961f7",
+    "id": "VariableID:468:1278",
+    "resolvedType": "FLOAT"
+  },
+  "font/weight/black": {
+    "name": "font/weight/black",
+    "key": "b50adbcc3ee39bb6872631951cbd44813e9d7a1d",
+    "id": "VariableID:468:1279",
+    "resolvedType": "FLOAT"
+  },
+  "font/tracking/tighter": {
+    "name": "font/tracking/tighter",
+    "key": "9c93a70b924052fae4450d0b07113e36001906b9",
+    "id": "VariableID:468:1280",
+    "resolvedType": "FLOAT"
+  },
+  "font/tracking/tight": {
+    "name": "font/tracking/tight",
+    "key": "ad4251bfc9a5c93e66ebf14b6a69cf281991ff0f",
+    "id": "VariableID:468:1281",
+    "resolvedType": "FLOAT"
+  },
+  "font/tracking/normal": {
+    "name": "font/tracking/normal",
+    "key": "1736e9d064dee9b6eac1e969666c49cb62a996b4",
+    "id": "VariableID:468:1282",
+    "resolvedType": "FLOAT"
+  },
+  "font/tracking/wide": {
+    "name": "font/tracking/wide",
+    "key": "c696aa44b9c3c1525c6e27144325b81a3f2ce741",
+    "id": "VariableID:468:1283",
+    "resolvedType": "FLOAT"
+  },
+  "font/tracking/wider": {
+    "name": "font/tracking/wider",
+    "key": "9470701dae53e4958bc1365a11d5b0cdcbce1458",
+    "id": "VariableID:468:1284",
+    "resolvedType": "FLOAT"
+  },
+  "font/tracking/widest": {
+    "name": "font/tracking/widest",
+    "key": "d35cb116ef99a68b3337fe88eeb1a512f731bcef",
+    "id": "VariableID:468:1285",
+    "resolvedType": "FLOAT"
+  },
+  "font/leading/3": {
+    "name": "font/leading/3",
+    "key": "6e96b812be7339e644ae87818aa3b8eea9634464",
+    "id": "VariableID:468:1287",
+    "resolvedType": "FLOAT"
+  },
+  "font/leading/4": {
+    "name": "font/leading/4",
+    "key": "27a59b74a179d732a13f30fcc143c95f145b883e",
+    "id": "VariableID:468:1288",
+    "resolvedType": "FLOAT"
+  },
+  "font/leading/5": {
+    "name": "font/leading/5",
+    "key": "41a5185bed0703f3c9d5963025f025d2d07e1e5f",
+    "id": "VariableID:468:1289",
+    "resolvedType": "FLOAT"
+  },
+  "font/leading/6": {
+    "name": "font/leading/6",
+    "key": "cbbddfa1f3d7aab396de808e6cd94fe23a0b8182",
+    "id": "VariableID:468:1290",
+    "resolvedType": "FLOAT"
+  },
+  "font/leading/7": {
+    "name": "font/leading/7",
+    "key": "c7b9cb35a22090e9fe9d6af0a96d909fbe2514c4",
+    "id": "VariableID:468:1291",
+    "resolvedType": "FLOAT"
+  },
+  "font/leading/8": {
+    "name": "font/leading/8",
+    "key": "82eee3109e8d352bd2089985e5d6798c8c9aeb5c",
+    "id": "VariableID:468:1292",
+    "resolvedType": "FLOAT"
+  },
+  "font/leading/9": {
+    "name": "font/leading/9",
+    "key": "6bd37807ab5d2207dc80ecfb36f3ce2edf7df3e9",
+    "id": "VariableID:468:1293",
+    "resolvedType": "FLOAT"
+  },
+  "font/leading/10": {
+    "name": "font/leading/10",
+    "key": "2229ac2809646c6742e769e420739231d1ce4836",
+    "id": "VariableID:468:1294",
+    "resolvedType": "FLOAT"
+  },
+  "radius/4xl": {
+    "name": "radius/4xl",
+    "key": "a32037d285d205e1afa59a3a08635d1bf0f77928",
+    "id": "VariableID:532:1230",
+    "resolvedType": "FLOAT"
+  },
+  "container/2xs": {
+    "name": "container/2xs",
+    "key": "90e26e0c78ec49d8fc144de80331721458e2c7c8",
+    "id": "VariableID:532:1231",
+    "resolvedType": "FLOAT"
+  },
+  "container/3xs": {
+    "name": "container/3xs",
+    "key": "e5e95e1b2550af7d9637d3e38139918fc21b89ec",
+    "id": "VariableID:532:1232",
+    "resolvedType": "FLOAT"
+  },
+  "color/orange/900": {
+    "name": "color/orange/900",
+    "key": "e267f26fcda82789a3911ed8a6909c4bbf402c92",
+    "id": "VariableID:541:1279",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/800": {
+    "name": "color/orange/800",
+    "key": "e62080eeffa7f3aec6a3935f9f74bb100adcab1b",
+    "id": "VariableID:541:1280",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/600": {
+    "name": "color/orange/600",
+    "key": "67a2423620b8e47f6f814ab3dd7b6dc87d0e97c6",
+    "id": "VariableID:541:1281",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/500": {
+    "name": "color/orange/500",
+    "key": "d803c053d7a8dcfaa8b1b4af97b752dcc2c52489",
+    "id": "VariableID:541:1282",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/400": {
+    "name": "color/orange/400",
+    "key": "ff29fa8f2c08f9ce70652726dc8ed05ff82645db",
+    "id": "VariableID:541:1283",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/700": {
+    "name": "color/orange/700",
+    "key": "fa30b1fe0cefee8207efc7d241fcecd2bda61e0b",
+    "id": "VariableID:541:1284",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/300": {
+    "name": "color/orange/300",
+    "key": "d8f09045d84e412addf0e6749fe7e90e85e3de70",
+    "id": "VariableID:541:1285",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/200": {
+    "name": "color/orange/200",
+    "key": "e5a67304c20947c7cd5bb1d1a2acca92b23d5666",
+    "id": "VariableID:541:1286",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/950": {
+    "name": "color/orange/950",
+    "key": "3d64439eb1e7b4ea50488c9753e70d616e9af64a",
+    "id": "VariableID:541:1287",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/100": {
+    "name": "color/orange/100",
+    "key": "7db1840611e8264ad503ce0104a04447151ca362",
+    "id": "VariableID:541:1288",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/50": {
+    "name": "color/orange/50",
+    "key": "1011de81c7f73a402df31a14fb63ac22d4140dd3",
+    "id": "VariableID:541:1289",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/900": {
+    "name": "color/amber/900",
+    "key": "43da34f3130a6cde5bb0b55b1ce29a1c0855f9dd",
+    "id": "VariableID:541:1314",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/300": {
+    "name": "color/amber/300",
+    "key": "a4f09dc3be6289871ff5d6755f9837a3a940b0ba",
+    "id": "VariableID:541:1315",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/800": {
+    "name": "color/amber/800",
+    "key": "740ed54d23594d21bcf435f1f1a39312c5df16d6",
+    "id": "VariableID:541:1316",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/500": {
+    "name": "color/amber/500",
+    "key": "ba999e0a9946471c23c8a8e66061876311b50ee1",
+    "id": "VariableID:541:1317",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/400": {
+    "name": "color/amber/400",
+    "key": "e307c6bac3e5bb4b5884cac149ccb13646afd641",
+    "id": "VariableID:541:1318",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/950": {
+    "name": "color/amber/950",
+    "key": "a635be0f48aa1b6bd2d70dd800191a24d6809a9e",
+    "id": "VariableID:541:1320",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/700": {
+    "name": "color/amber/700",
+    "key": "e28c74d5aa756b2bad070ba9e90d47a284efda12",
+    "id": "VariableID:541:1321",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/100": {
+    "name": "color/amber/100",
+    "key": "e32c6771ef4272c0838c001095402c558160b742",
+    "id": "VariableID:541:1322",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/600": {
+    "name": "color/amber/600",
+    "key": "ddf4c8394d944622e93912844f4c4c1f3981f79e",
+    "id": "VariableID:541:1323",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/200": {
+    "name": "color/amber/200",
+    "key": "a815f9e01b76669409ba024fa084ba65c95695d9",
+    "id": "VariableID:541:1324",
+    "resolvedType": "COLOR"
+  },
+  "color/red/400_40": {
+    "name": "color/red/400_40",
+    "key": "235547d8b7ede79816a7ba793c0107695a3ef4e9",
+    "id": "VariableID:3619:1230",
+    "resolvedType": "COLOR"
+  },
+  "color/red/400_50": {
+    "name": "color/red/400_50",
+    "key": "8c8fe7d3067ffb5ca331fc88b479bcf41925f677",
+    "id": "VariableID:3619:1231",
+    "resolvedType": "COLOR"
+  },
+  "color/red/500_15": {
+    "name": "color/red/500_15",
+    "key": "22e3d62ab6c392482acd9e0a06f0974043fdbf36",
+    "id": "VariableID:3619:1232",
+    "resolvedType": "COLOR"
+  },
+  "color/red/700_90": {
+    "name": "color/red/700_90",
+    "key": "c79a9becc2ddca2b27e6416a089e2c36f96617a5",
+    "id": "VariableID:3619:1233",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/300_80": {
+    "name": "color/rose/300_80",
+    "key": "66a38298996fde8dc7e6bc1e49e1034dd48ca770",
+    "id": "VariableID:3619:1234",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/400_90": {
+    "name": "color/rose/400_90",
+    "key": "d135b5eb3ca161c34ce4752f45270b7f6625b6d8",
+    "id": "VariableID:3619:1235",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/500_90": {
+    "name": "color/rose/500_90",
+    "key": "966c72489103f013a6c170b609f3e5536586f5be",
+    "id": "VariableID:3619:1236",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/800_90": {
+    "name": "color/rose/800_90",
+    "key": "b00216936c59e14b907554a03429f8a398f0642e",
+    "id": "VariableID:3619:1237",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/150": {
+    "name": "color/amber/150",
+    "key": "ec3e2eabd33b8228f2d6ba822fc08a36df42ea1e",
+    "id": "VariableID:3622:1238",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/25": {
+    "name": "color/amber/25",
+    "key": "ce994b9e959f0843a66fdcb6a2b29aaf2fa3a452",
+    "id": "VariableID:3622:1239",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/75": {
+    "name": "color/amber/75",
+    "key": "e69f7320768fc31ea4c0c97664e12e6d499d50c9",
+    "id": "VariableID:3622:1240",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/850": {
+    "name": "color/amber/850",
+    "key": "6d7d07c5bc3120865e7cf1d7f0a6a549064537b3",
+    "id": "VariableID:3622:1241",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/925": {
+    "name": "color/amber/925",
+    "key": "a6d9f78579b85959661002d866980fa661a573bf",
+    "id": "VariableID:3622:1242",
+    "resolvedType": "COLOR"
+  },
+  "color/amber/975": {
+    "name": "color/amber/975",
+    "key": "09a316078b64ed660f8300a2e901d8e8940c350b",
+    "id": "VariableID:3622:1243",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/150": {
+    "name": "color/blue/150",
+    "key": "dcefa7449937f6ac9093c4836c2228ea95183079",
+    "id": "VariableID:3622:1244",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/25": {
+    "name": "color/blue/25",
+    "key": "e72c0e78eedf977f35db1912bc5a6b7c73ffdb3f",
+    "id": "VariableID:3622:1245",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/75": {
+    "name": "color/blue/75",
+    "key": "06a9781ef26ad969d68c6fefb199e88a3031848f",
+    "id": "VariableID:3622:1246",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/850": {
+    "name": "color/blue/850",
+    "key": "faf1b69e03a7104316547788cb0ccbc4933b653c",
+    "id": "VariableID:3622:1247",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/925": {
+    "name": "color/blue/925",
+    "key": "0b27e539f31762bdbfa366a00a4c52eef4d04941",
+    "id": "VariableID:3622:1248",
+    "resolvedType": "COLOR"
+  },
+  "color/blue/975": {
+    "name": "color/blue/975",
+    "key": "ba59ebb838b79f58d79c4f599b93b80ae5846568",
+    "id": "VariableID:3622:1249",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/150": {
+    "name": "color/cyan/150",
+    "key": "ed26927063ff7fab33d1373ed739a8bb8fad414e",
+    "id": "VariableID:3622:1250",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/25": {
+    "name": "color/cyan/25",
+    "key": "353cde9b84610be4e2acf637d630c18374c1671b",
+    "id": "VariableID:3622:1251",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/75": {
+    "name": "color/cyan/75",
+    "key": "d88af277a113954a2bb10d077b7a0f374115b72b",
+    "id": "VariableID:3622:1252",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/850": {
+    "name": "color/cyan/850",
+    "key": "0872a7cc5bfc1bb658bf3297247aee61877981f5",
+    "id": "VariableID:3622:1253",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/925": {
+    "name": "color/cyan/925",
+    "key": "e904a7a5b7c5aa44ef5771789871a8dd4c897f34",
+    "id": "VariableID:3622:1254",
+    "resolvedType": "COLOR"
+  },
+  "color/cyan/975": {
+    "name": "color/cyan/975",
+    "key": "0b74989617c20a00080924423102b71534edfe78",
+    "id": "VariableID:3622:1255",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/150": {
+    "name": "color/emerald/150",
+    "key": "2b959510fc531c0a62d51a02572f7a292e4e7bf8",
+    "id": "VariableID:3622:1256",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/25": {
+    "name": "color/emerald/25",
+    "key": "d0c048b0e73f70f3586902aebd786ef1c8c42908",
+    "id": "VariableID:3622:1257",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/75": {
+    "name": "color/emerald/75",
+    "key": "88adc2164e865bd6dd8027e5b9c8c1d9e8b4617f",
+    "id": "VariableID:3622:1258",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/850": {
+    "name": "color/emerald/850",
+    "key": "6afc1b40a2b543fcfb6e0cab341865c55818ce80",
+    "id": "VariableID:3622:1259",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/925": {
+    "name": "color/emerald/925",
+    "key": "38bd386e3800c00ca47721f6dc5a94eaff63db88",
+    "id": "VariableID:3622:1260",
+    "resolvedType": "COLOR"
+  },
+  "color/emerald/975": {
+    "name": "color/emerald/975",
+    "key": "665fccd665d375a7aab2ac4b7a711a22449af6f4",
+    "id": "VariableID:3622:1261",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/150": {
+    "name": "color/fuchsia/150",
+    "key": "110ad6b5a97520d26fb24bde7ee829c13942ac63",
+    "id": "VariableID:3622:1262",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/25": {
+    "name": "color/fuchsia/25",
+    "key": "0f494039a24a2a0b26935d3a9182d8bf94f44858",
+    "id": "VariableID:3622:1263",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/75": {
+    "name": "color/fuchsia/75",
+    "key": "033738bad752bbd473310462400ba3f53a16402a",
+    "id": "VariableID:3622:1264",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/850": {
+    "name": "color/fuchsia/850",
+    "key": "90cecd7ac2c34aeab80d2d9386481ebe00d1649c",
+    "id": "VariableID:3622:1265",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/925": {
+    "name": "color/fuchsia/925",
+    "key": "a021c3a1b8f8f540a93c623dbfa6c49a2797e26a",
+    "id": "VariableID:3622:1266",
+    "resolvedType": "COLOR"
+  },
+  "color/fuchsia/975": {
+    "name": "color/fuchsia/975",
+    "key": "71b87239533de253efec1ba6fb7fd6e41ace2da8",
+    "id": "VariableID:3622:1267",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/150": {
+    "name": "color/gray/150",
+    "key": "e1ba596f052b1371b5424d7f62f6fcb389d03e62",
+    "id": "VariableID:3622:1268",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/25": {
+    "name": "color/gray/25",
+    "key": "09563a266479fb824f4fd3f4d7cfe7cf5d72e44a",
+    "id": "VariableID:3622:1269",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/75": {
+    "name": "color/gray/75",
+    "key": "29b876683e324dfe9680dd225ddf352b5d1d22d5",
+    "id": "VariableID:3622:1270",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/850": {
+    "name": "color/gray/850",
+    "key": "e84a306800e9767f1177ba62fed346fe4a712191",
+    "id": "VariableID:3622:1271",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/925": {
+    "name": "color/gray/925",
+    "key": "816a299e0dd389466d03e78736ca50dd6b926b88",
+    "id": "VariableID:3622:1272",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/975": {
+    "name": "color/gray/975",
+    "key": "7e7ed65b9e57323bdb4f607a669543ab3c2fbb59",
+    "id": "VariableID:3622:1273",
+    "resolvedType": "COLOR"
+  },
+  "color/green/150": {
+    "name": "color/green/150",
+    "key": "2849b7347aeea71f3c6e3598bfbb97926be57be2",
+    "id": "VariableID:3622:1274",
+    "resolvedType": "COLOR"
+  },
+  "color/green/25": {
+    "name": "color/green/25",
+    "key": "da05bef638b8e05083bf89f3eb649320fd30945a",
+    "id": "VariableID:3622:1275",
+    "resolvedType": "COLOR"
+  },
+  "color/green/75": {
+    "name": "color/green/75",
+    "key": "a59a222be68837a144c3ace11a3090333be4b15a",
+    "id": "VariableID:3622:1276",
+    "resolvedType": "COLOR"
+  },
+  "color/green/850": {
+    "name": "color/green/850",
+    "key": "0671d9d07fe419c7467fd85247d52f8296a0ce7d",
+    "id": "VariableID:3622:1277",
+    "resolvedType": "COLOR"
+  },
+  "color/green/925": {
+    "name": "color/green/925",
+    "key": "609e3b72ba1ea489a1935721cf9f56ae864027ae",
+    "id": "VariableID:3622:1278",
+    "resolvedType": "COLOR"
+  },
+  "color/green/975": {
+    "name": "color/green/975",
+    "key": "5a60605b61d493a23e4522b08df9e17c2b4d6393",
+    "id": "VariableID:3622:1279",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/150": {
+    "name": "color/indigo/150",
+    "key": "12c83022d37327048244870d4497f3fadb10b3b3",
+    "id": "VariableID:3622:1280",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/25": {
+    "name": "color/indigo/25",
+    "key": "c24d60852b2bf7e6c53680789f9f5c368fbd41c5",
+    "id": "VariableID:3622:1281",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/75": {
+    "name": "color/indigo/75",
+    "key": "4137c0496924d57f1b42e9d5aa4c1bf145277f45",
+    "id": "VariableID:3622:1282",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/850": {
+    "name": "color/indigo/850",
+    "key": "92a38047dd83600f23e57c67770d844ec8a78cde",
+    "id": "VariableID:3622:1283",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/925": {
+    "name": "color/indigo/925",
+    "key": "feb5ac1a275ad3eb9390fafde0decf56491f1eb1",
+    "id": "VariableID:3622:1284",
+    "resolvedType": "COLOR"
+  },
+  "color/indigo/975": {
+    "name": "color/indigo/975",
+    "key": "29e720c350c400ddca3e97439a883f709313b1af",
+    "id": "VariableID:3622:1285",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/150": {
+    "name": "color/lime/150",
+    "key": "2f30c424afa33660203b2548bec5274191559dbc",
+    "id": "VariableID:3622:1286",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/25": {
+    "name": "color/lime/25",
+    "key": "eb1a510bb35c079bb318b37174d87bb3938c1fb7",
+    "id": "VariableID:3622:1287",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/75": {
+    "name": "color/lime/75",
+    "key": "feb97c752a4e77f5f20a3b4eeffc9972d2cb41d3",
+    "id": "VariableID:3622:1288",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/850": {
+    "name": "color/lime/850",
+    "key": "68e170170ceead37e6775e8666d3d61ee6a137a5",
+    "id": "VariableID:3622:1289",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/925": {
+    "name": "color/lime/925",
+    "key": "87ac8c612cfedd62ceaf57e93417d880c34a41ab",
+    "id": "VariableID:3622:1290",
+    "resolvedType": "COLOR"
+  },
+  "color/lime/975": {
+    "name": "color/lime/975",
+    "key": "df55a0fc312a5638189ffaf731f99da947dfcc4d",
+    "id": "VariableID:3622:1291",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/150": {
+    "name": "color/neutral/150",
+    "key": "6e6e9d3bd36fb5b4cfd4429aa00c1629a3a8ff71",
+    "id": "VariableID:3622:1292",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/25": {
+    "name": "color/neutral/25",
+    "key": "4169d3db95cc9f6fce55133eb420fdbf9bb5afa2",
+    "id": "VariableID:3622:1293",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/75": {
+    "name": "color/neutral/75",
+    "key": "271337775d7234b56920e3ad1b69a86c31dbefa2",
+    "id": "VariableID:3622:1294",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/850": {
+    "name": "color/neutral/850",
+    "key": "09c2495fab13d07acba570195fdeef4e443a2c46",
+    "id": "VariableID:3622:1295",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/925": {
+    "name": "color/neutral/925",
+    "key": "a81ac1018dcff0177f040703c3946d6eadc130c6",
+    "id": "VariableID:3622:1296",
+    "resolvedType": "COLOR"
+  },
+  "color/neutral/975": {
+    "name": "color/neutral/975",
+    "key": "432087a4e794d624b2400dbabc8efb97d91fe967",
+    "id": "VariableID:3622:1297",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/150": {
+    "name": "color/orange/150",
+    "key": "8863c58ae98f2685a5265a8ea60a767cd652d256",
+    "id": "VariableID:3622:1298",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/25": {
+    "name": "color/orange/25",
+    "key": "544657b6c139cac775550a8550c9b8d7dd022635",
+    "id": "VariableID:3622:1299",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/75": {
+    "name": "color/orange/75",
+    "key": "f3cdcf5736503ff00051172117ca90862c795b4f",
+    "id": "VariableID:3622:1300",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/850": {
+    "name": "color/orange/850",
+    "key": "e6b350865abafccf70bd3271d4f00aa29022fc84",
+    "id": "VariableID:3622:1301",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/925": {
+    "name": "color/orange/925",
+    "key": "125497f859df0219a15fe689b8c15a89c2874036",
+    "id": "VariableID:3622:1302",
+    "resolvedType": "COLOR"
+  },
+  "color/orange/975": {
+    "name": "color/orange/975",
+    "key": "0d5c67931e1a8daf67b0ff7277d92319085cce76",
+    "id": "VariableID:3622:1303",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/150": {
+    "name": "color/pink/150",
+    "key": "45738aedf13c9fc88c8de8ca65286ea69f3ab371",
+    "id": "VariableID:3622:1304",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/25": {
+    "name": "color/pink/25",
+    "key": "84ea0342e24fd78d7023c708a214cc8084b1724b",
+    "id": "VariableID:3622:1305",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/75": {
+    "name": "color/pink/75",
+    "key": "14e229196bd234646aefac7b7091c241a1d24a7b",
+    "id": "VariableID:3622:1306",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/850": {
+    "name": "color/pink/850",
+    "key": "df4bead9e9d9cda33a34917a9ed4bafc29e9b705",
+    "id": "VariableID:3622:1307",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/925": {
+    "name": "color/pink/925",
+    "key": "29f22d5329716bcde8bc2f8ece6b8750a1b95897",
+    "id": "VariableID:3622:1308",
+    "resolvedType": "COLOR"
+  },
+  "color/pink/975": {
+    "name": "color/pink/975",
+    "key": "b038d72117661ce2741e89148962ff9f07cc1e54",
+    "id": "VariableID:3622:1309",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/150": {
+    "name": "color/purple/150",
+    "key": "30e9a864e73f489593dddc9c2962b48a1a5138f7",
+    "id": "VariableID:3622:1310",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/25": {
+    "name": "color/purple/25",
+    "key": "c571b9ba6f06eb9376206d6f275a64b4a2f7a4c5",
+    "id": "VariableID:3622:1311",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/75": {
+    "name": "color/purple/75",
+    "key": "56e5a83e1b0f00ee06c0835a723716dae78e2fec",
+    "id": "VariableID:3622:1312",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/850": {
+    "name": "color/purple/850",
+    "key": "0e36e2a625e5cff42eae9c105b63d9d2f40a5a05",
+    "id": "VariableID:3622:1313",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/925": {
+    "name": "color/purple/925",
+    "key": "e51a2dc58487765767fe99e5edf76b26ee38898f",
+    "id": "VariableID:3622:1314",
+    "resolvedType": "COLOR"
+  },
+  "color/purple/975": {
+    "name": "color/purple/975",
+    "key": "2ed98662403103762491c6b3d07b85cba6ca330b",
+    "id": "VariableID:3622:1315",
+    "resolvedType": "COLOR"
+  },
+  "color/red/150": {
+    "name": "color/red/150",
+    "key": "401426ff657f06d55d4ddc02adc83e63124080b3",
+    "id": "VariableID:3622:1316",
+    "resolvedType": "COLOR"
+  },
+  "color/red/25": {
+    "name": "color/red/25",
+    "key": "ec8544eeb606651ca749b56d5907914a4a67b9d4",
+    "id": "VariableID:3622:1317",
+    "resolvedType": "COLOR"
+  },
+  "color/red/75": {
+    "name": "color/red/75",
+    "key": "53645c863d9ba47b8b9773964ed319737541b9ad",
+    "id": "VariableID:3622:1318",
+    "resolvedType": "COLOR"
+  },
+  "color/red/850": {
+    "name": "color/red/850",
+    "key": "2f10731c4f966563e71a085b567c91a36fd9d93c",
+    "id": "VariableID:3622:1319",
+    "resolvedType": "COLOR"
+  },
+  "color/red/925": {
+    "name": "color/red/925",
+    "key": "773e2711543de4b330ed274c1dc9a051e3d0e478",
+    "id": "VariableID:3622:1320",
+    "resolvedType": "COLOR"
+  },
+  "color/red/975": {
+    "name": "color/red/975",
+    "key": "8d1c1bb50e985a9324771d1e589c51602539b52d",
+    "id": "VariableID:3622:1321",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/150": {
+    "name": "color/rose/150",
+    "key": "8822e5509231a672ed1ef0b33f2dcaeff08c3fdf",
+    "id": "VariableID:3622:1322",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/25": {
+    "name": "color/rose/25",
+    "key": "a88503a6ad4e99bcdd9196c97f3bd24f37674161",
+    "id": "VariableID:3622:1323",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/75": {
+    "name": "color/rose/75",
+    "key": "99dc4391063d6212b0f5eb33bfa2a91c3ab770a2",
+    "id": "VariableID:3622:1324",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/850": {
+    "name": "color/rose/850",
+    "key": "fbe9e32714b9bd88a0cdb25179ae0559e92f931b",
+    "id": "VariableID:3622:1325",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/925": {
+    "name": "color/rose/925",
+    "key": "c51aa7bddd74b779dc6715eb5957ed3e5e4db16e",
+    "id": "VariableID:3622:1326",
+    "resolvedType": "COLOR"
+  },
+  "color/rose/975": {
+    "name": "color/rose/975",
+    "key": "5af55ee87d5043d2c9b3db2777bdeeacb8d90288",
+    "id": "VariableID:3622:1327",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/150": {
+    "name": "color/sky/150",
+    "key": "75d2423acf90e1d65ffa523b7a3e94d0c5a54631",
+    "id": "VariableID:3622:1328",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/25": {
+    "name": "color/sky/25",
+    "key": "4e9d94f395200f7f489f5bc8e7f08b1ee42e8cdf",
+    "id": "VariableID:3622:1329",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/75": {
+    "name": "color/sky/75",
+    "key": "78fd39a4d65eb4f35f880fa52eda0285f8fa3baa",
+    "id": "VariableID:3622:1330",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/850": {
+    "name": "color/sky/850",
+    "key": "432a166430a9336ba33cddaa89484d42ab7de66c",
+    "id": "VariableID:3622:1331",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/925": {
+    "name": "color/sky/925",
+    "key": "231115083a07f6c79e17e85cbcb10a33a5ff1981",
+    "id": "VariableID:3622:1332",
+    "resolvedType": "COLOR"
+  },
+  "color/sky/975": {
+    "name": "color/sky/975",
+    "key": "70576533e3bc7081668e29a8807c7c8fdb813c2a",
+    "id": "VariableID:3622:1333",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/150": {
+    "name": "color/slate/150",
+    "key": "d37832b95de2412db8649a212a9fc35922b58c27",
+    "id": "VariableID:3622:1334",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/25": {
+    "name": "color/slate/25",
+    "key": "2d9941ae3d2d1e55f83cf26493a65a21bda59ac9",
+    "id": "VariableID:3622:1335",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/75": {
+    "name": "color/slate/75",
+    "key": "142708acbce4d440fc279643ac7f4d98e14b2cac",
+    "id": "VariableID:3622:1336",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/850": {
+    "name": "color/slate/850",
+    "key": "e9dcd739d38672b286f21c5bf0f41343e5f4b709",
+    "id": "VariableID:3622:1337",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/925": {
+    "name": "color/slate/925",
+    "key": "fc4180dcdf35eb35e05f5055a7c831f711e624c1",
+    "id": "VariableID:3622:1338",
+    "resolvedType": "COLOR"
+  },
+  "color/slate/975": {
+    "name": "color/slate/975",
+    "key": "6ca387ffad2f76a394e3caf8c5268d06191e1a54",
+    "id": "VariableID:3622:1339",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/150": {
+    "name": "color/stone/150",
+    "key": "44f9aef857af86fa6b722a498d960b515c9c428e",
+    "id": "VariableID:3622:1340",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/25": {
+    "name": "color/stone/25",
+    "key": "b31dccfa3ba047f55d44b771af40d317084af6b6",
+    "id": "VariableID:3622:1341",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/75": {
+    "name": "color/stone/75",
+    "key": "999ccc18aeb7474801a8bdf4f095ee131bd12e6c",
+    "id": "VariableID:3622:1342",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/850": {
+    "name": "color/stone/850",
+    "key": "3cf022d8c5415c3410b294962a5c48e757e9716a",
+    "id": "VariableID:3622:1343",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/925": {
+    "name": "color/stone/925",
+    "key": "936341b82776d4eaa1dc443dc62658aae11e210e",
+    "id": "VariableID:3622:1344",
+    "resolvedType": "COLOR"
+  },
+  "color/stone/975": {
+    "name": "color/stone/975",
+    "key": "bf4a30628ff02828b65626098ffee27bb499c3b0",
+    "id": "VariableID:3622:1345",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/150": {
+    "name": "color/teal/150",
+    "key": "73d69089334b3cf346d304d27e542411a0f82fcc",
+    "id": "VariableID:3622:1346",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/25": {
+    "name": "color/teal/25",
+    "key": "fa0c1a9eb7b00711552574fdc362e90ea966ec3b",
+    "id": "VariableID:3622:1347",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/75": {
+    "name": "color/teal/75",
+    "key": "6aa0a318af07e98998ff55cab4d4ff3408e01e4e",
+    "id": "VariableID:3622:1348",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/850": {
+    "name": "color/teal/850",
+    "key": "22257586653577032a2027627e6c6f5a3b48fe95",
+    "id": "VariableID:3622:1349",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/925": {
+    "name": "color/teal/925",
+    "key": "b101ba222067e34175b02a5a40b4ebf77472c797",
+    "id": "VariableID:3622:1350",
+    "resolvedType": "COLOR"
+  },
+  "color/teal/975": {
+    "name": "color/teal/975",
+    "key": "8a8d0ce25327534178c50e08c6604c964ada4d78",
+    "id": "VariableID:3622:1351",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/150": {
+    "name": "color/violet/150",
+    "key": "9c8c403cfaf282a03e66b364022a76e16cb67f56",
+    "id": "VariableID:3622:1352",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/25": {
+    "name": "color/violet/25",
+    "key": "51365b1502c6b7778b90a4486a669044f2c56306",
+    "id": "VariableID:3622:1353",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/75": {
+    "name": "color/violet/75",
+    "key": "0157145354b3d720ba378afd584db926bbbf7c52",
+    "id": "VariableID:3622:1354",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/850": {
+    "name": "color/violet/850",
+    "key": "d006ad7fa61e2e89f1d77b65c77c0bc6772a402b",
+    "id": "VariableID:3622:1355",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/925": {
+    "name": "color/violet/925",
+    "key": "f38c270abecc45fdb231669e17876826898d50f3",
+    "id": "VariableID:3622:1356",
+    "resolvedType": "COLOR"
+  },
+  "color/violet/975": {
+    "name": "color/violet/975",
+    "key": "ad893252c73ef9d496afef9b5f3640ad9dfde775",
+    "id": "VariableID:3622:1357",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/150": {
+    "name": "color/yellow/150",
+    "key": "41711e13588cea60b60b098a87816e3274df218a",
+    "id": "VariableID:3622:1358",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/25": {
+    "name": "color/yellow/25",
+    "key": "2d66b75a8ccd510108364439b04c122d3a4dd017",
+    "id": "VariableID:3622:1359",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/75": {
+    "name": "color/yellow/75",
+    "key": "69402f11a7ceb99414cf528e416b8a86b159067e",
+    "id": "VariableID:3622:1360",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/850": {
+    "name": "color/yellow/850",
+    "key": "3ed4034a2a4b9ac62a9fc94a870d18c2677be55d",
+    "id": "VariableID:3622:1361",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/925": {
+    "name": "color/yellow/925",
+    "key": "959c94f4dc91d6444dea4f86c9cfab2ce62f8123",
+    "id": "VariableID:3622:1362",
+    "resolvedType": "COLOR"
+  },
+  "color/yellow/975": {
+    "name": "color/yellow/975",
+    "key": "f02afed27b56c281b0190f8894cae356313ea9a2",
+    "id": "VariableID:3622:1363",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/150": {
+    "name": "color/zinc/150",
+    "key": "fb6fc7e350cde1d741f93d62533d1bf39276d5ed",
+    "id": "VariableID:3622:1364",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/25": {
+    "name": "color/zinc/25",
+    "key": "0bb21ab29c2700e5fb95c52a6434c8bc7a9cdf1f",
+    "id": "VariableID:3622:1365",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/75": {
+    "name": "color/zinc/75",
+    "key": "789cbdac320d8244143d49645cd55d8ad4a0966b",
+    "id": "VariableID:3622:1366",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/850": {
+    "name": "color/zinc/850",
+    "key": "9253d116d10d07347e7e355a5ad51576e39fb8b3",
+    "id": "VariableID:3622:1367",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/925": {
+    "name": "color/zinc/925",
+    "key": "cee9f746bca21c5bdaa9d7ce3cc29d639bb35bb6",
+    "id": "VariableID:3622:1368",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/975": {
+    "name": "color/zinc/975",
+    "key": "adf36b92f72a518fa673b3b2fd99963960a99449",
+    "id": "VariableID:3622:1369",
+    "resolvedType": "COLOR"
+  },
+  "color/black_5": {
+    "name": "color/black_5",
+    "key": "81a192079a35c30880ac4c2d8a3e2a447e8c7326",
+    "id": "VariableID:3628:1370",
+    "resolvedType": "COLOR"
+  },
+  "color/black_10": {
+    "name": "color/black_10",
+    "key": "34487bbdd2354752810fcecc48d9756544ca3b8f",
+    "id": "VariableID:3628:1371",
+    "resolvedType": "COLOR"
+  },
+  "color/black_25": {
+    "name": "color/black_25",
+    "key": "b3bf2eabe48871edb741f6037d02f27d56dc2440",
+    "id": "VariableID:3628:1372",
+    "resolvedType": "COLOR"
+  },
+  "color/black_30": {
+    "name": "color/black_30",
+    "key": "07925c3904aef995acc913954c19f5ca9fc3c3d3",
+    "id": "VariableID:3628:1373",
+    "resolvedType": "COLOR"
+  },
+  "color/black_35": {
+    "name": "color/black_35",
+    "key": "713cf4cabf14553b708a8a15c534533dcd94e432",
+    "id": "VariableID:3628:1374",
+    "resolvedType": "COLOR"
+  },
+  "color/black_45": {
+    "name": "color/black_45",
+    "key": "5cd42dab647d65f43cd4ab861f3fa5639263559e",
+    "id": "VariableID:3628:1375",
+    "resolvedType": "COLOR"
+  },
+  "color/black_50": {
+    "name": "color/black_50",
+    "key": "0d034330b0253a23cc4094303af2b70f8cb76adb",
+    "id": "VariableID:3628:1376",
+    "resolvedType": "COLOR"
+  },
+  "color/black_55": {
+    "name": "color/black_55",
+    "key": "8f10da87149fac4d4821704ac41d7299cd9792fc",
+    "id": "VariableID:3628:1377",
+    "resolvedType": "COLOR"
+  },
+  "color/black_60": {
+    "name": "color/black_60",
+    "key": "e9549b7025a91093194de9ea1361b48805eca0e2",
+    "id": "VariableID:3628:1378",
+    "resolvedType": "COLOR"
+  },
+  "color/black_70": {
+    "name": "color/black_70",
+    "key": "f36fb1e75e5d716483475ee1bafd6f3720157fa2",
+    "id": "VariableID:3628:1379",
+    "resolvedType": "COLOR"
+  },
+  "color/black_75": {
+    "name": "color/black_75",
+    "key": "f7d7ed6fc3cdb619f5b9c871bf39608d00ec1d03",
+    "id": "VariableID:3628:1380",
+    "resolvedType": "COLOR"
+  },
+  "color/black_90": {
+    "name": "color/black_90",
+    "key": "696a18b07b698a4ec1461d22a50f88579545b17e",
+    "id": "VariableID:3628:1381",
+    "resolvedType": "COLOR"
+  },
+  "color/black_95": {
+    "name": "color/black_95",
+    "key": "1291e674f25589079f1b74be7ed9d92635c1c6b7",
+    "id": "VariableID:3628:1382",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/100_25": {
+    "name": "color/gray/100_25",
+    "key": "73ae43f9bfd2ff0cc87f573ae328efa3430ef2ea",
+    "id": "VariableID:3628:1383",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/100_100": {
+    "name": "color/gray/100_100",
+    "key": "12f9060dff74db9aca394d79eb7f1f5fe59131b0",
+    "id": "VariableID:3628:1384",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/200_25": {
+    "name": "color/gray/200_25",
+    "key": "d7aaefcbb0745cf42dd976702e3a0eeed095ae4e",
+    "id": "VariableID:3628:1385",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/200_100": {
+    "name": "color/gray/200_100",
+    "key": "97044ee6e68a4c5c469bc2879c0b205814c14457",
+    "id": "VariableID:3628:1386",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/50_25": {
+    "name": "color/gray/50_25",
+    "key": "ab30ee092779f70aba2f9a009a33c71e0d5d866d",
+    "id": "VariableID:3628:1387",
+    "resolvedType": "COLOR"
+  },
+  "color/gray/50_100": {
+    "name": "color/gray/50_100",
+    "key": "976dce4c1af5212d8e9694c1d64a595c8da73cd0",
+    "id": "VariableID:3628:1388",
+    "resolvedType": "COLOR"
+  },
+  "color/white_5": {
+    "name": "color/white_5",
+    "key": "89897a9859acae35077694b0e4dd345315428b59",
+    "id": "VariableID:3628:1389",
+    "resolvedType": "COLOR"
+  },
+  "color/white_10": {
+    "name": "color/white_10",
+    "key": "727f5d3bb88eaf1e0f98dcac350f0bb4b3c0e3e7",
+    "id": "VariableID:3628:1390",
+    "resolvedType": "COLOR"
+  },
+  "color/white_25": {
+    "name": "color/white_25",
+    "key": "c443359d34446c033b7dfa676b81835687efd8bf",
+    "id": "VariableID:3628:1391",
+    "resolvedType": "COLOR"
+  },
+  "color/white_30": {
+    "name": "color/white_30",
+    "key": "835e16ee98e611eff3f3a49fd754557a00e59c2c",
+    "id": "VariableID:3628:1392",
+    "resolvedType": "COLOR"
+  },
+  "color/white_35": {
+    "name": "color/white_35",
+    "key": "19c42f8e0f30714d0bd849b1521c105b81c0cc76",
+    "id": "VariableID:3628:1393",
+    "resolvedType": "COLOR"
+  },
+  "color/white_45": {
+    "name": "color/white_45",
+    "key": "9667b0d003ff53d2f27be5d11afc1c9f07c69156",
+    "id": "VariableID:3628:1394",
+    "resolvedType": "COLOR"
+  },
+  "color/white_55": {
+    "name": "color/white_55",
+    "key": "ed943b4909ad9251d172462f658193636e663327",
+    "id": "VariableID:3628:1395",
+    "resolvedType": "COLOR"
+  },
+  "color/white_60": {
+    "name": "color/white_60",
+    "key": "c8b0d845cf33b6f37fe8e029d75f87bf92da3810",
+    "id": "VariableID:3628:1396",
+    "resolvedType": "COLOR"
+  },
+  "color/white_70": {
+    "name": "color/white_70",
+    "key": "5a3c19960b4c8e72b8a393c6d411cf54af88bc63",
+    "id": "VariableID:3628:1397",
+    "resolvedType": "COLOR"
+  },
+  "color/white_75": {
+    "name": "color/white_75",
+    "key": "1bec37da96944aa8ae5fd2e448be8bedf848847b",
+    "id": "VariableID:3628:1398",
+    "resolvedType": "COLOR"
+  },
+  "color/white_80": {
+    "name": "color/white_80",
+    "key": "acf4fbb5c0351b7558a5495faa2d021c547b2933",
+    "id": "VariableID:3628:1399",
+    "resolvedType": "COLOR"
+  },
+  "color/white_85": {
+    "name": "color/white_85",
+    "key": "e95c271ed4fd71f6c2d5bdfe266621713fa363cf",
+    "id": "VariableID:3628:1400",
+    "resolvedType": "COLOR"
+  },
+  "color/white_90": {
+    "name": "color/white_90",
+    "key": "f5d4ff6eecd7c26154faa2ed82cbd7411859ac1d",
+    "id": "VariableID:3628:1401",
+    "resolvedType": "COLOR"
+  },
+  "color/white_95": {
+    "name": "color/white_95",
+    "key": "99f6825ad282b56cf84da03d65d15318312121f5",
+    "id": "VariableID:3628:1402",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/800_100": {
+    "name": "color/zinc/800_100",
+    "key": "26167811778dd0d055358c25d1b15589ec7833d2",
+    "id": "VariableID:3628:1403",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/850_100": {
+    "name": "color/zinc/850_100",
+    "key": "6666e79a5de2d6a31e1cadff1d7eaaadb7cc64b1",
+    "id": "VariableID:3628:1404",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/900_100": {
+    "name": "color/zinc/900_100",
+    "key": "600d58065cd9264b92a4553caa817d031d07dfa1",
+    "id": "VariableID:3628:1405",
+    "resolvedType": "COLOR"
+  },
+  "color/zinc/950_100": {
+    "name": "color/zinc/950_100",
+    "key": "e6440c097e3459a65b634ddd7cc85563061d7cf4",
+    "id": "VariableID:3628:1406",
+    "resolvedType": "COLOR"
+  },
+  "color/black_05": {
+    "name": "color/black_05",
+    "key": "e45a9b1f445be87b233ab789f34dd5c4addb60d2",
+    "id": "VariableID:3637:1407",
+    "resolvedType": "COLOR"
+  },
+  "color/white_05": {
+    "name": "color/white_05",
+    "key": "0433a000a862a36c12741f3e8595f61570894d32",
+    "id": "VariableID:3637:1408",
+    "resolvedType": "COLOR"
+  }
+}

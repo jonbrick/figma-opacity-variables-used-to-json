@@ -1,0 +1,11 @@
+{
+  "name": "Opacity Variables used to JSON",
+  "id": "opacity-variables-used-to-json",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": ["figma"],
+  "permissions": ["currentuser", "teamlibrary"]
+}
