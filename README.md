@@ -1,240 +1,138 @@
-# Variable Opacity Usage Auditor
+# Opacity Variables Usage Auditor
 
-## Overview
-
-The Variable Opacity Usage Auditor is a Figma plugin that helps identify and manage opacity variables across collections. It specifically focuses on auditing underscore syntax variables (e.g., `red/25_90`) by comparing a source collection against a target collection to identify which opacity variables should be removed.
+This Figma plugin audits and manages opacity variables with underscore syntax (like `red/25_90`) by comparing source and target collections to identify unused variables for removal, while also converting CSS theme variables into properly organized Figma variables with cross-collection alias support and automated light/dark mode mapping.
 
 ## Features
 
-- **Collection Comparison**: Compare variables between source and target collections
-- **Smart Variable Detection**: Specifically focuses on underscore syntax opacity variables
-- **Large Collection Support**:
-  - Automatic handling for collections with <500 variables via Figma API
-  - JSON upload support for collections with >500 variables
-- **Audit Report Generation**: Generates a JSON file of variables that should be removed
-- **Flexible Source Input**: Works with both API-retrieved and JSON-uploaded variable lists
+### 🔍 Variable Auditing
+
+- **Smart Detection**: Automatically identifies opacity variables with underscore syntax (`red/25_90`, `color/rose/500_90`)
+- **Collection Comparison**: Cross-references variables between source and target collections
+- **Usage Analysis**: Identifies which opacity variables should be removed based on actual usage
+- **Audit Reports**: Generates comprehensive JSON reports of variables marked for removal
+
+### 🎨 CSS Variable Mapping
+
+- **CSS-to-Figma Conversion**: Transforms CSS variables (`--color-red-500`) into Figma variables (`color/red/500`)
+- **Theme Variable Support**: Processes CSS `@theme` declarations automatically
+- **Cross-Collection Aliases**: Creates proper variable references between different collections
+- **Light/Dark Mode Mapping**: Automatically handles mode-specific variable assignments
+
+### 📊 Collection Management
+
+- **Library & Local Support**: Works with both library and local variable collections
+- **Large Collection Handling**:
+  - Automatic API loading for collections <500 variables
+  - JSON upload support for collections >500 variables
+- **Smart Import**: Automatically imports library variables when needed
+- **Progress Tracking**: Real-time feedback on creation, updates, and failures
 
 ## Technical Architecture
 
 ### Plugin Structure
 
 ```
-variable-opacity-usage-to-json/
-├── manifest.json     # Plugin configuration
-├── code.js          # Main plugin logic (ES5 compatible)
-├── ui.html          # Plugin interface with inline CSS/JS
-└── README.md        # Documentation
+opacity-variables-usage-to-json/
+├── manifest.json              # Plugin configuration
+├── code.js                   # Main plugin logic (ES5 compatible)
+├── ui.html                   # Plugin interface with inline CSS/JS
+├── check-es5.js              # ES5 compatibility checker
+├── ES5_COMPATIBILITY_GUIDE.md # Development guidelines
+└── README.md                 # Documentation
 ```
 
-### Technology Stack
+### ES5 Compatibility
 
-- **JavaScript**: ES5-compatible for Figma plugin environment
-- **Figma Plugin API**: For variable and collection management
-- **Promise-based**: Async handling for collection processing
+- **Figma-Ready**: All code written in ES5-compatible JavaScript
+- **No Modern Syntax**: Avoids arrow functions, template literals, const/let, destructuring
+- **Built-in Checker**: Includes `check-es5.js` tool for syntax validation
+- **Development Guide**: Comprehensive ES5 conversion reference
 
 ## How It Works
 
-### 1. Variable Format
+### Variable Format Detection
 
-The plugin specifically looks for opacity variables with underscore syntax:
+The plugin specifically targets opacity variables with underscore syntax:
 
-| Variable Type    | Format Example | Description                       |
-| ---------------- | -------------- | --------------------------------- |
-| Opacity Variable | `red/25_90`    | Color variable with opacity value |
+| Variable Type    | Format Example      | Description                       |
+| ---------------- | ------------------- | --------------------------------- |
+| Opacity Variable | `red/25_90`         | Color variable with opacity value |
+| Theme Variable   | `color/rose/500_90` | Themed color with opacity         |
 
-### 2. Processing Flow
+### Workflow
 
 1. **Collection Selection**
 
-   - User selects source collection (where variables might be removed from)
-   - User selects target collection (to check variable usage against)
+   - Choose source collection (where variables might be removed)
+   - Select target collection (to check variable usage)
 
-2. **Variable Loading**
+2. **Variable Processing**
 
-   - For collections with <500 variables:
-     - Automatically loads variables using Figma API
-   - For collections with >500 variables:
-     - Prompts for JSON upload of complete variable list
+   - Automatic loading via Figma API (<500 variables)
+   - JSON file upload for large collections (>500 variables)
+   - Smart detection of underscore syntax variables
 
-3. **Audit Process**
+3. **Analysis & Output**
+   - Cross-reference variables between collections
+   - Generate removal recommendations
+   - Create organized Figma variables with proper aliases
+   - Export audit results as JSON
 
-   - Identifies all underscore syntax variables from source
-   - Cross-references against target collection
-   - Identifies variables not used in target collection
+## Installation
 
-4. **Output Generation**
-   - Generates JSON file containing variables to be removed
-   - Maintains same format as input JSON
+1. **Download** the plugin files from this repository
+2. **Open Figma** and navigate to Plugins → Development
+3. **Import** the plugin using the `manifest.json` file
+4. **Run** the plugin from your Figma file
 
-## UI Components
+## Usage
 
-### Collection Selection Screen
+### Auditing Variables
 
-```
-┌─────────────────────────────────────┐
-│  📚 Collection Selection            │
-│  ├─ Source Collection               │
-│  │  [Select Source Collection ▼]    │
-│  └─ Target Collection               │
-│     [Select Target Collection ▼]    │
-├─────────────────────────────────────┤
-│  [Next]                             │
-└─────────────────────────────────────┘
-```
+1. Launch the plugin in your Figma file
+2. Select your source and target collections
+3. Let the plugin analyze variable usage
+4. Download the generated audit report
+5. Review recommendations for variable cleanup
 
-### JSON Upload Screen (if needed)
+### Converting CSS Variables
 
-```
-┌─────────────────────────────────────┐
-│  📋 Selected Collections            │
-│  Source: [Selected Source]          │
-│  Target: [Selected Target]          │
-├─────────────────────────────────────┤
-│     📁 Upload Variables JSON        │
-│     [Choose File]                   │
-└─────────────────────────────────────┘
-```
+1. Prepare your CSS file with `@theme` variable declarations
+2. Upload the CSS file through the plugin interface
+3. Choose target collection for new variables
+4. Review the conversion preview
+5. Apply changes to create Figma variables
 
-### Results Screen
+## Development
 
-```
-┌─────────────────────────────────────┐
-│  [Start New Audit]  [Close]         │
-├─────────────────────────────────────┤
-│  📊 Audit Results                   │
-├─────────────────────────────────────┤
-│  Total Variables Checked: X         │
-│  Opacity Variables Found: Y         │
-│  Variables to Remove: Z             │
-│                                     │
-│  [Download Results JSON]            │
-└─────────────────────────────────────┘
+### ES5 Compatibility Check
+
+```bash
+node check-es5.js
 ```
 
-## Key Functions
+### File Structure
 
-### code.js
+- `code.js` - Main plugin logic with ES5-compatible syntax
+- `ui.html` - Plugin interface with embedded CSS and JavaScript
+- `check-es5.js` - Development tool for syntax validation
 
-#### `loadCollections()`
+## API Permissions
 
-- Loads all available collections
-- Sends collection data to UI for display
-- Handles collection size checking
+- `currentuser` - Access user information
+- `teamlibrary` - Read and import library variables
 
-#### `processVariables(...)`
+## Contributing
 
-- Main orchestrator for variable auditing
-- Handles both API and JSON-based variable lists
-- Identifies underscore syntax variables
+1. Ensure all code follows ES5 compatibility guidelines
+2. Run `node check-es5.js` before committing
+3. Reference `ES5_COMPATIBILITY_GUIDE.md` for syntax rules
+4. Test thoroughly in Figma's plugin environment
 
-#### `generateAuditReport(...)`
+## License
 
-- Creates final JSON output
-- Includes only variables to be removed
-- Maintains original JSON structure
+[Add your license information here]
 
-### ui.html
+## Support
 
-#### `handleCollectionSelection()`
-
-- Manages collection selection process
-- Determines if JSON upload is needed
-
-#### `processAuditResults(results)`
-
-- Displays audit results
-- Provides download option for JSON output
-
-## Console Logging
-
-The plugin uses collapsible console groups for clean output:
-
-```javascript
-// Normal view
-📚 Loading all collections...
-✅ Found 1 local collections
-✅ Successfully loaded 1 library collections
-📄 Parsing CSS content...
-✅ Found 75 theme variables
-▼ ⚡ Processing 75 variables...    // Click to expand
-✅ All library imports completed
-📊 === FINAL RESULTS ===
-✅ Created: 70
-✏️ Updated: 5
-❌ Failed: 0
-
-// Expanded view shows all details
-▼ ⚡ Processing 75 variables...
-  🔄 Processing: color/fill/danger
-  ✏️ Updated: color/fill/danger
-  🔄 Processing: color/fill/primary
-  ✨ Created: color/fill/primary
-  // ... all 75 entries
-```
-
-## Error Handling
-
-- **Collection Loading**: Falls back to local-only if libraries fail
-- **CSS Parsing**: Validates content and shows clear error messages
-- **Variable Creation**: Tracks and reports failed variables individually
-- **Library Imports**: Handles async failures gracefully
-
-## Best Practices
-
-1. **CSS Organization**
-
-   - Keep `@theme` block clean with only variable mappings
-   - Ensure all referenced variables exist in light/dark blocks
-   - Use consistent naming conventions
-
-2. **Collection Management**
-
-   - Organize source tokens in a dedicated library
-   - Create a separate local collection for theme variables
-   - Use descriptive collection names
-
-3. **Large Files**
-   - The plugin handles 75+ variables efficiently
-   - Results start collapsed for better overview
-   - Use console expansion to debug specific issues
-
-## Limitations
-
-- **ES5 Only**: Due to Figma plugin environment constraints
-- **Color Variables Only**: Currently supports only COLOR type variables
-- **Local Targets**: Can only create variables in local collections
-- **Opacity Format**: Must use `--alpha(var(--color) / X%)` syntax
-
-## Troubleshooting
-
-### Variables Not Found
-
-- Check exact naming in source collection
-- Verify the plugin's variable name conversion logic
-- Use console logs to see what names are being searched
-
-### Import Failures
-
-- Ensure you have access to the library
-- Check library publishing status
-- Verify variable keys haven't changed
-
-### Performance Issues
-
-- Large files are handled with async batching
-- Console logs are collapsed by default
-- UI uses accordions to manage long lists
-
-## Future Enhancements
-
-- Support for additional variable types (spacing, typography)
-- Export functionality for created mappings
-- Batch processing of multiple CSS files
-- Variable validation and preview
-- Undo/redo functionality
-
-## Version History
-
-- **1.0.0**: Initial release with core functionality
-- **1.1.0**: Added console grouping and UI improvements
-- **1.2.0**: Fixed async handling and button positioning
+For issues, feature requests, or questions, please [open an issue](../../issues) on this repository.
